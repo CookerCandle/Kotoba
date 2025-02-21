@@ -1,0 +1,4279 @@
+[
+    {
+        "dars": 1,
+        "so'zlar": [
+            {
+                "jp": "わたし",
+                "uzb": "men"
+            },
+            {
+                "jp": "あなた",
+                "uzb": "siz"
+            },
+            {
+                "jp": "あのひと",
+                "uzb": "u kishi(u ayol(qiz))"
+            },
+            {
+                "jp": "あのかた",
+                "uzb": "u kishi (hurmat shakli)"
+            },
+            {
+                "jp": "〜さん",
+                "uzb": "janob, xonim (hurmat shakli, ismga qo‘shiladi)"
+            },
+            {
+                "jp": "〜ちゃん",
+                "uzb": "〜さんning qisqartma va erkalash suffiksi, bolalarga nisbatan ishlatiladi"
+            },
+            {
+                "jp": "〜じん",
+                "uzb": "biror kishining millatini bildiradigan suffiks (masalan, Amerikalik)"
+            },
+            {
+                "jp": "せんせい",
+                "uzb": "ustoz"
+            },
+            {
+                "jp": "きょうし",
+                "uzb": "o‘qituvchi, domla"
+            },
+            {
+                "jp": "がくせい",
+                "uzb": "talaba"
+            },
+            {
+                "jp": "かいしゃいん",
+                "uzb": "firma yoki korxona xodimi"
+            },
+            {
+                "jp": "しゃいん",
+                "uzb": "firma xodimi (korxona nomi bilan qo‘llanadi, masalan: IMCの社員)"
+            },
+            {
+                "jp": "ぎんこういん",
+                "uzb": "bank xodimi"
+            },
+            {
+                "jp": "いしゃ",
+                "uzb": "shifokor"
+            },
+            {
+                "jp": "けんきゅうしゃ",
+                "uzb": "tadqiqotchi, ilmiy-izlanuvchi"
+            },
+            {
+                "jp": "だいがく",
+                "uzb": "universitet, institut"
+            },
+            {
+                "jp": "びょういん",
+                "uzb": "shifoxona, kasalxona"
+            },
+            {
+                "jp": "だれ",
+                "uzb": "kim"
+            },
+            {
+                "jp": "どなた",
+                "uzb": "kim (hurmat shakli)"
+            },
+            {
+                "jp": "－さい",
+                "uzb": "～ yosh"
+            },
+            {
+                "jp": "なんさい",
+                "uzb": "necha yosh"
+            },
+            {
+                "jp": "おいくつ",
+                "uzb": "necha yosh (hurmat shakli)"
+            },
+            {
+                "jp": "はい",
+                "uzb": "ha"
+            },
+            {
+                "jp": "いいえ",
+                "uzb": "yo‘q"
+            },
+            {
+                "jp": "はじめまして",
+                "uzb": "O‘zimni tanishtirishga ruxsat bersangiz."
+            },
+            {
+                "jp": "〜から きました",
+                "uzb": "Men ～(davlat nomi)dan kelganman."
+            },
+            {
+                "jp": "［どうぞ］よろしく［おねがいします］",
+                "uzb": "Tanishganimdan xursandman."
+            },
+            {
+                "jp": "しつれいですが",
+                "uzb": "Kechirasiz, ～"
+            },
+            {
+                "jp": "おなまえは？",
+                "uzb": "Ismingiz nima?"
+            },
+            {
+                "jp": "こちらは〜さんです",
+                "uzb": "Bu kishi janob / xonim ～."
+            },
+            {
+                "jp": "アメリカ",
+                "uzb": "Amerika, AQSH"
+            },
+            {
+                "jp": "イギリス",
+                "uzb": "Angliya, Buyuk Britaniya"
+            },
+            {
+                "jp": "インド",
+                "uzb": "Hindiston"
+            },
+            {
+                "jp": "インドネシア",
+                "uzb": "Indoneziya"
+            },
+            {
+                "jp": "かんこく",
+                "uzb": "Janubiy Koreya"
+            },
+            {
+                "jp": "タイ",
+                "uzb": "Tailand"
+            },
+            {
+                "jp": "ちゅうごく",
+                "uzb": "Xitoy"
+            },
+            {
+                "jp": "ドイツ",
+                "uzb": "Germaniya"
+            },
+            {
+                "jp": "にほん",
+                "uzb": "Yaponiya"
+            },
+            {
+                "jp": "ブラジル",
+                "uzb": "Braziliya"
+            }
+        ]
+    },
+    {
+        "dars": 2,
+        "so'zlar": [
+            {
+                "jp": "これ",
+                "uzb": "bu (so‘zlovchiga yaqin masofadagi buyumga nisbatan qo‘llaniladi)"
+            },
+            {
+                "jp": "それ",
+                "uzb": "u (tinglovchiga yaqin masofadagi buyumlarga nisbatan qo‘llaniladi)"
+            },
+            {
+                "jp": "あれ",
+                "uzb": "ana u (ham so‘zlovchiga, ham tinglovchiga uzoq bo‘lgan buyumlarga nisbatan qo‘llaniladi)"
+            },
+            {
+                "jp": "この〜",
+                "uzb": "bu ～ (so‘zlovchiga yaqin masofadagi buyumga nisbatan qo‘llaniladi)"
+            },
+            {
+                "jp": "その〜",
+                "uzb": "u ～ (tinglovchiga yaqin masofadagi buyumlarga nisbatan qo‘llaniladi)"
+            },
+            {
+                "jp": "あの〜",
+                "uzb": "ana u ～ (ham so‘zlovchiga, tinglovchiga uzoq bo‘lgan buyumlarga nisbatan qo‘llaniladi)"
+            },
+            {
+                "jp": "ほん",
+                "uzb": "kitob"
+            },
+            {
+                "jp": "じしょ",
+                "uzb": "lug‘at"
+            },
+            {
+                "jp": "ざっし",
+                "uzb": "jurnal, oynoma"
+            },
+            {
+                "jp": "しんぶん",
+                "uzb": "gazeta, ro‘znoma"
+            },
+            {
+                "jp": "ノート",
+                "uzb": "daftar"
+            },
+            {
+                "jp": "てちょう",
+                "uzb": "yon daftar"
+            },
+            {
+                "jp": "めいし",
+                "uzb": "tashrif qog‘ozi"
+            },
+            {
+                "jp": "カード",
+                "uzb": "kartochka"
+            },
+            {
+                "jp": "えんぴつ",
+                "uzb": "qalam"
+            },
+            {
+                "jp": "ボールペン",
+                "uzb": "sharikli ruchka"
+            },
+            {
+                "jp": "シャープペン",
+                "uzb": "avtoqalam"
+            },
+            {
+                "jp": "かぎ",
+                "uzb": "qulf, kalit"
+            },
+            {
+                "jp": "とけい",
+                "uzb": "soat"
+            },
+            {
+                "jp": "かさ",
+                "uzb": "soyabon"
+            },
+            {
+                "jp": "かばん",
+                "uzb": "sumka"
+            },
+            {
+                "jp": "ＣＤ",
+                "uzb": "kompakt-disk"
+            },
+            {
+                "jp": "テレビ",
+                "uzb": "televizor"
+            },
+            {
+                "jp": "ラジオ",
+                "uzb": "radio"
+            },
+            {
+                "jp": "カメラ",
+                "uzb": "fotoapparat"
+            },
+            {
+                "jp": "コンピューター",
+                "uzb": "kompyuter"
+            },
+            {
+                "jp": "くるま",
+                "uzb": "mashina"
+            },
+            {
+                "jp": "つくえ",
+                "uzb": "stol, parta"
+            },
+            {
+                "jp": "いす",
+                "uzb": "stul, kursi"
+            },
+            {
+                "jp": "チョコレート",
+                "uzb": "shokolad"
+            },
+            {
+                "jp": "コーヒー",
+                "uzb": "qahva (kofe)"
+            },
+            {
+                "jp": "［お］みやげ",
+                "uzb": "sovg‘a"
+            },
+            {
+                "jp": "えいご",
+                "uzb": "ingliz tili"
+            },
+            {
+                "jp": "にほんご",
+                "uzb": "yapon tili"
+            },
+            {
+                "jp": "〜ご",
+                "uzb": "～tili"
+            },
+            {
+                "jp": "なん",
+                "uzb": "nima"
+            },
+            {
+                "jp": "そう",
+                "uzb": "shunday"
+            },
+            {
+                "jp": "あのう",
+                "uzb": "Haligi ... (gap boshlash)"
+            },
+            {
+                "jp": "えっ",
+                "uzb": "shundaymi, rostdanmi (hayratlanishni ifodalaydi)"
+            },
+            {
+                "jp": "どうぞ。",
+                "uzb": "Marhamat."
+            },
+            {
+                "jp": "［どうも］ありがとう［ございます］。",
+                "uzb": "Katta rahmat (minnatdorchilikning to‘liq ifodasi)"
+            },
+            {
+                "jp": "そうですか。",
+                "uzb": "Shundaymi? Rostdanmi?"
+            },
+            {
+                "jp": "ちがいます。",
+                "uzb": "Unday emas. Noto‘g‘ri."
+            },
+            {
+                "jp": "あ",
+                "uzb": "a (esidan chiqarganda ishlatiladi)"
+            },
+            {
+                "jp": "これから おせわになります。",
+                "uzb": "Bundan keyin mehr va yordamingizni kutib qolaman."
+            },
+            {
+                "jp": "こちらこそ［どうぞ］よろしく［おねがいします］。",
+                "uzb": "Mendan ham yordamingizni ayamaysiz degan umiddaman. Men ham tanishganimdan xursandman."
+            }
+        ]
+    },
+    {
+        "dars": 3,
+        "so'zlar": [
+            {
+                "jp": "ここ",
+                "uzb": "bu yer, bu joy"
+            },
+            {
+                "jp": "そこ",
+                "uzb": "u yer, u joy, o‘sha yer, o‘sha joy"
+            },
+            {
+                "jp": "あそこ",
+                "uzb": "ana u yer, ana u joy"
+            },
+            {
+                "jp": "どこ",
+                "uzb": "qayer"
+            },
+            {
+                "jp": "こちら",
+                "uzb": "bu yer, bu joy （ここ ning hurmat shakli）"
+            },
+            {
+                "jp": "そちら",
+                "uzb": "u yer, u joy, o‘sha yer, o‘sha joy （そこ ning hurmat shakli）"
+            },
+            {
+                "jp": "あちら",
+                "uzb": "ana u yer, ana u joy （あそこ ning hurmat shakli）"
+            },
+            {
+                "jp": "どちら",
+                "uzb": "qayer （どこ ning hurmat shakli）"
+            },
+            {
+                "jp": "きょうしつ",
+                "uzb": "sinf, auditoriya"
+            },
+            {
+                "jp": "しょくどう",
+                "uzb": "oshxona"
+            },
+            {
+                "jp": "じむしょ",
+                "uzb": "idora, ofis"
+            },
+            {
+                "jp": "かいぎしつ",
+                "uzb": "majlislar zali"
+            },
+            {
+                "jp": "うけつけ",
+                "uzb": "qabulxona"
+            },
+            {
+                "jp": "ロビー",
+                "uzb": "dahliz"
+            },
+            {
+                "jp": "へや",
+                "uzb": "xona"
+            },
+            {
+                "jp": "トイレ（おてあらい）",
+                "uzb": "hojatxona"
+            },
+            {
+                "jp": "かいだん",
+                "uzb": "zina"
+            },
+            {
+                "jp": "エレベーター",
+                "uzb": "lift"
+            },
+            {
+                "jp": "エスカレーター",
+                "uzb": "eskalator"
+            },
+            {
+                "jp": "じどうはんばいき",
+                "uzb": "oziq-ovqat va ichimlik sotib olish uchun mo‘ljallangan avtomat moslama"
+            },
+            {
+                "jp": "でんわ",
+                "uzb": "telefon"
+            },
+            {
+                "jp": "［お］くに",
+                "uzb": "vatan, mamlakat"
+            },
+            {
+                "jp": "かいしゃ",
+                "uzb": "firma, korxona"
+            },
+            {
+                "jp": "うち",
+                "uzb": "uy"
+            },
+            {
+                "jp": "くつ",
+                "uzb": "poyafzal, oyoq-kiyim"
+            },
+            {
+                "jp": "ネクタイ",
+                "uzb": "bo‘yinbog‘, galstuk"
+            },
+            {
+                "jp": "ワイン",
+                "uzb": "musallas, sharob (vino)"
+            },
+            {
+                "jp": "うりば",
+                "uzb": "sotuv rastasi, savdo rastasi"
+            },
+            {
+                "jp": "ちか",
+                "uzb": "yer osti, yerto‘la"
+            },
+            {
+                "jp": "−かい（がい）",
+                "uzb": "―qavat"
+            },
+            {
+                "jp": "なんがい",
+                "uzb": "nechanchi qavat"
+            },
+            {
+                "jp": "−えん",
+                "uzb": "―yen (Yaponiya pul birligi)"
+            },
+            {
+                "jp": "いくら",
+                "uzb": "necha pul, qancha turadi"
+            },
+            {
+                "jp": "ひゃく",
+                "uzb": "yuz"
+            },
+            {
+                "jp": "せん",
+                "uzb": "ming"
+            },
+            {
+                "jp": "まん",
+                "uzb": "o‘n ming"
+            },
+            {
+                "jp": "すみません。",
+                "uzb": "Kechirasiz. / Meni ma’zur tutasiz."
+            },
+            {
+                "jp": "どうも。",
+                "uzb": "Rahmat."
+            },
+            {
+                "jp": "いらっしゃいませ。",
+                "uzb": "Xush kelibsiz."
+            },
+            {
+                "jp": "［〜を］見せてください。",
+                "uzb": "Iltimos, ～ni ko‘rsating."
+            },
+            {
+                "jp": "じゃ",
+                "uzb": "U holda / Χo‘sh / Demak"
+            },
+            {
+                "jp": "［〜を］ください。",
+                "uzb": "Iltimos, ～ni bering."
+            },
+            {
+                "jp": "イタリア",
+                "uzb": "Italiya"
+            },
+            {
+                "jp": "スイス",
+                "uzb": "Shveysariya"
+            },
+            {
+                "jp": "フランス",
+                "uzb": "Fransiya"
+            },
+            {
+                "jp": "ジャカルタ",
+                "uzb": "Jakarta"
+            },
+            {
+                "jp": "バンコク",
+                "uzb": "Bongok"
+            },
+            {
+                "jp": "ベルリン",
+                "uzb": "Berlin"
+            },
+            {
+                "jp": "しんおおさか",
+                "uzb": "Shin-Osaka (Osakadagi bekat nomi)"
+            }
+        ]
+    },
+    {
+        "dars": 4,
+        "so'zlar": [
+            {
+                "jp": "おきます",
+                "uzb": "uyg‘onmoq"
+            },
+            {
+                "jp": "ねます",
+                "uzb": "uxlamoq"
+            },
+            {
+                "jp": "はたらきます",
+                "uzb": "ishlamoq"
+            },
+            {
+                "jp": "やすみます",
+                "uzb": "dam olmoq"
+            },
+            {
+                "jp": "べんきょうします",
+                "uzb": "dars qilmoq, dars tayyorlamoq"
+            },
+            {
+                "jp": "おわります",
+                "uzb": "tugamoq"
+            },
+            {
+                "jp": "デパート",
+                "uzb": "univermag"
+            },
+            {
+                "jp": "ぎんこう",
+                "uzb": "bank"
+            },
+            {
+                "jp": "ゆうびんきょく",
+                "uzb": "pochta"
+            },
+            {
+                "jp": "としょかん",
+                "uzb": "kutubxona"
+            },
+            {
+                "jp": "びじゅつかん",
+                "uzb": "san’at muzeyi"
+            },
+            {
+                "jp": "いま",
+                "uzb": "hozir"
+            },
+            {
+                "jp": "−じ",
+                "uzb": "soat～"
+            },
+            {
+                "jp": "−ふん（ぷん）",
+                "uzb": "～daqiqa"
+            },
+            {
+                "jp": "はん",
+                "uzb": "yarim"
+            },
+            {
+                "jp": "なんじ",
+                "uzb": "soat necha"
+            },
+            {
+                "jp": "なんぷん",
+                "uzb": "necha daqiqa"
+            },
+            {
+                "jp": "ごぜん",
+                "uzb": "tungi soat 12 dan tushki 12 gacha bo‘lgan vaqt"
+            },
+            {
+                "jp": "ごご",
+                "uzb": "tushki soat 12 dan tungi soat 12 gacha bo‘lgan vaqt"
+            },
+            {
+                "jp": "あさ",
+                "uzb": "tong, ertalab"
+            },
+            {
+                "jp": "ひる",
+                "uzb": "tush, kunduzi"
+            },
+            {
+                "jp": "ばん（よる）",
+                "uzb": "kech, kechqurun"
+            },
+            {
+                "jp": "おととい",
+                "uzb": "o‘tgan kuni, kechadan oldingi kun"
+            },
+            {
+                "jp": "きのう",
+                "uzb": "kecha"
+            },
+            {
+                "jp": "きょう",
+                "uzb": "bugun"
+            },
+            {
+                "jp": "あした",
+                "uzb": "ertaga"
+            },
+            {
+                "jp": "あさって",
+                "uzb": "indinga, ertadan keyin"
+            },
+            {
+                "jp": "けさ",
+                "uzb": "bugun ertalab, bugun tongda"
+            },
+            {
+                "jp": "こんばん",
+                "uzb": "bugun kechqurun"
+            },
+            {
+                "jp": "やすみ",
+                "uzb": "dam olish, ta’til"
+            },
+            {
+                "jp": "ひるやすみ",
+                "uzb": "tushlik / tushki tanaffus"
+            },
+            {
+                "jp": "しけん",
+                "uzb": "imtihon, sinov"
+            },
+            {
+                "jp": "かいぎ",
+                "uzb": "majlis（～をします： majlis qilmoq）"
+            },
+            {
+                "jp": "えいが",
+                "uzb": "kino"
+            },
+            {
+                "jp": "まいあさ",
+                "uzb": "har kuni ertalab, har tong"
+            },
+            {
+                "jp": "まいばん",
+                "uzb": "har kuni kechqurun"
+            },
+            {
+                "jp": "まいにち",
+                "uzb": "har kuni"
+            },
+            {
+                "jp": "げつようび",
+                "uzb": "dushanba"
+            },
+            {
+                "jp": "かようび",
+                "uzb": "seshanba"
+            },
+            {
+                "jp": "すいようび",
+                "uzb": "chorshanba"
+            },
+            {
+                "jp": "もくようび",
+                "uzb": "payshanba"
+            },
+            {
+                "jp": "きんようび",
+                "uzb": "juma"
+            },
+            {
+                "jp": "どようび",
+                "uzb": "shanba"
+            },
+            {
+                "jp": "にちようび",
+                "uzb": "yakshanba"
+            },
+            {
+                "jp": "なんようび",
+                "uzb": "haftaning qaysi kuni"
+            },
+            {
+                "jp": "〜から",
+                "uzb": "～dan"
+            },
+            {
+                "jp": "〜まで",
+                "uzb": "～gacha，～ ga qadar"
+            },
+            {
+                "jp": "〜と〜",
+                "uzb": "～bilan～"
+            },
+            {
+                "jp": "たいへんですね。",
+                "uzb": "Og‘ir. Qiyin bo‘libdi."
+            },
+            {
+                "jp": "ばんごう",
+                "uzb": "raqam"
+            },
+            {
+                "jp": "なんばん",
+                "uzb": "nechanchi raqam"
+            },
+            {
+                "jp": "そちら",
+                "uzb": "sizda"
+            },
+            {
+                "jp": "ニューヨーク",
+                "uzb": "Nyu-York"
+            },
+            {
+                "jp": "ペキン",
+                "uzb": "Pekin"
+            },
+            {
+                "jp": "ロサンゼルス",
+                "uzb": "Los-Anjeles"
+            },
+            {
+                "jp": "ロンドン",
+                "uzb": "London"
+            }
+        ]
+    },
+    {
+        "dars": 5,
+        "so'zlar": [
+            {
+                "jp": "いきます",
+                "uzb": "bormoq"
+            },
+            {
+                "jp": "きます",
+                "uzb": "kelmoq"
+            },
+            {
+                "jp": "かえります",
+                "uzb": "qaytmoq"
+            },
+            {
+                "jp": "がっこう",
+                "uzb": "maktab"
+            },
+            {
+                "jp": "スーパー",
+                "uzb": "supermarket"
+            },
+            {
+                "jp": "えき",
+                "uzb": "vokzal; bekat"
+            },
+            {
+                "jp": "ひこうき",
+                "uzb": "samolyot"
+            },
+            {
+                "jp": "ふね",
+                "uzb": "kema"
+            },
+            {
+                "jp": "でんしゃ",
+                "uzb": "poyezd"
+            },
+            {
+                "jp": "ちかてつ",
+                "uzb": "metro"
+            },
+            {
+                "jp": "しんかんせん",
+                "uzb": "“shinkansen” (tez yurar poyezd)"
+            },
+            {
+                "jp": "バス",
+                "uzb": "avtobus"
+            },
+            {
+                "jp": "タクシー",
+                "uzb": "taksi"
+            },
+            {
+                "jp": "じてんしゃ",
+                "uzb": "velosiped"
+            },
+            {
+                "jp": "あるいて",
+                "uzb": "piyoda"
+            },
+            {
+                "jp": "ひと",
+                "uzb": "odam, kishi, inson"
+            },
+            {
+                "jp": "ともだち",
+                "uzb": "do‘st, dugona"
+            },
+            {
+                "jp": "かれ",
+                "uzb": "u (erkak kishi)"
+            },
+            {
+                "jp": "かのじょ",
+                "uzb": "u (ayol kishi)"
+            },
+            {
+                "jp": "かぞく",
+                "uzb": "oila"
+            },
+            {
+                "jp": "ひとりで",
+                "uzb": "bir o‘zi（～m，～ng), yakka"
+            },
+            {
+                "jp": "せんしゅう",
+                "uzb": "o‘tgan hafta"
+            },
+            {
+                "jp": "こんしゅう",
+                "uzb": "bu hafta"
+            },
+            {
+                "jp": "らいしゅう",
+                "uzb": "kelasi hafta"
+            },
+            {
+                "jp": "せんげつ",
+                "uzb": "o‘tgan oy"
+            },
+            {
+                "jp": "こんげつ",
+                "uzb": "bu oy"
+            },
+            {
+                "jp": "らいげつ",
+                "uzb": "kelasi oy"
+            },
+            {
+                "jp": "きょねん",
+                "uzb": "o‘tgan yili"
+            },
+            {
+                "jp": "ことし",
+                "uzb": "bu yil"
+            },
+            {
+                "jp": "らいねん",
+                "uzb": "kelasi yil"
+            },
+            {
+                "jp": "−ねん",
+                "uzb": "～chi yil，～yil"
+            },
+            {
+                "jp": "なんねん",
+                "uzb": "qaysi yil"
+            },
+            {
+                "jp": "−がつ",
+                "uzb": "～chi oy，～oyi"
+            },
+            {
+                "jp": "なんがつ",
+                "uzb": "qaysi oy"
+            },
+            {
+                "jp": "ついたち",
+                "uzb": "1-kuni (oyning birinchi sanasi)"
+            },
+            {
+                "jp": "ふつか",
+                "uzb": "2-kuni (oyning ikkinchi sanasi); ikki kun"
+            },
+            {
+                "jp": "みっか",
+                "uzb": "3-kuni (oyning uchinchi sanasi); uch kun"
+            },
+            {
+                "jp": "よっか",
+                "uzb": "4-kuni (oyning to‘rtinchi sanasi); to‘rt kun"
+            },
+            {
+                "jp": "いつか",
+                "uzb": "5-kuni (oyning beshinchi sanasi); besh kun"
+            },
+            {
+                "jp": "むいか",
+                "uzb": "6-kuni (oyning oltinchi sanasi); olti kun"
+            },
+            {
+                "jp": "なのか",
+                "uzb": "7-kuni (oyning yettinchi sanasi); yetti kun"
+            },
+            {
+                "jp": "ようか",
+                "uzb": "8-kuni (oyning sakkizinchi sanasi); sakkiz kun"
+            },
+            {
+                "jp": "ここのか",
+                "uzb": "9-kuni (oyning to‘qqizinchi sanasi); to‘qqiz kun"
+            },
+            {
+                "jp": "とおか",
+                "uzb": "10-kuni (oyning o‘ninchi sanasi); o‘n kun"
+            },
+            {
+                "jp": "じゅうよっか",
+                "uzb": "14-kuni (oyning o‘n to‘rtinchi sanasi); o‘n to‘rt kun"
+            },
+            {
+                "jp": "はつか",
+                "uzb": "20-kuni (oyning yigirmanchi sanasi); yigirma kun"
+            },
+            {
+                "jp": "にじゅうよっか",
+                "uzb": "24-kuni (oyning yigirma to‘rtinchi sanasi); yigirma to‘rt kun"
+            },
+            {
+                "jp": "−にち",
+                "uzb": "～chi sana，～chi kun；～kun"
+            },
+            {
+                "jp": "なんにち",
+                "uzb": "oyning nechanchi sanasi; necha kun"
+            },
+            {
+                "jp": "いつ",
+                "uzb": "qachon"
+            },
+            {
+                "jp": "たんじょうび",
+                "uzb": "tug‘ilgan kun"
+            },
+            {
+                "jp": "そうですね。",
+                "uzb": "Rost aytasiz. Ha shunday."
+            },
+            {
+                "jp": "［どうも］ありがとうございました。",
+                "uzb": "Katta rahmat."
+            },
+            {
+                "jp": "どういたしまして",
+                "uzb": "Arzimaydi., Hechqisi yo‘q."
+            },
+            {
+                "jp": "〜ばんせん",
+                "uzb": "～chi yo‘l (temir yo‘l)"
+            },
+            {
+                "jp": "つぎの",
+                "uzb": "kelasi, keyingi, navbatdagi"
+            },
+            {
+                "jp": "ふつう",
+                "uzb": "oddiy poyezd"
+            },
+            {
+                "jp": "きゅうこう",
+                "uzb": "tez yurar poyezd"
+            },
+            {
+                "jp": "とっきゅう",
+                "uzb": "ekspress (tez yurar) poyezd"
+            },
+            {
+                "jp": "こうしえん",
+                "uzb": "Koshien (Osaka yaqinidagi shahar)"
+            },
+            {
+                "jp": "おおさかじょう",
+                "uzb": "Osaka qal’asi"
+            }
+        ]
+    },
+    {
+        "dars": 6,
+        "so'zlar": [
+            {
+                "jp": "たべます",
+                "uzb": "yemoq"
+            },
+            {
+                "jp": "のみます",
+                "uzb": "ichmoq"
+            },
+            {
+                "jp": "すいます [たばこを〜]",
+                "uzb": "chekmoq (tamaki chekmoq)"
+            },
+            {
+                "jp": "みます",
+                "uzb": "ko‘rmoq"
+            },
+            {
+                "jp": "ききます",
+                "uzb": "eshitmoq"
+            },
+            {
+                "jp": "よみます",
+                "uzb": "o‘qimoq"
+            },
+            {
+                "jp": "かきます",
+                "uzb": "yozmoq"
+            },
+            {
+                "jp": "かいます",
+                "uzb": "sotib olmoq"
+            },
+            {
+                "jp": "とります [しゃしんを〜]",
+                "uzb": "olmoq (fotosuratga olmoq)"
+            },
+            {
+                "jp": "します",
+                "uzb": "qilmoq, bajarmoq"
+            },
+            {
+                "jp": "あいます [ともだちに〜]",
+                "uzb": "uchratmoq (do‘stni uchratmoq)"
+            },
+            {
+                "jp": "ごはん",
+                "uzb": "ovqat; qaynatilgan guruch"
+            },
+            {
+                "jp": "あさごはん",
+                "uzb": "ertalabki nonushta"
+            },
+            {
+                "jp": "ひるごはん",
+                "uzb": "tushlik"
+            },
+            {
+                "jp": "ばんごはん",
+                "uzb": "kechki ovqat"
+            },
+            {
+                "jp": "パン",
+                "uzb": "non"
+            },
+            {
+                "jp": "たまご",
+                "uzb": "tuxum"
+            },
+            {
+                "jp": "にく",
+                "uzb": "go‘sht"
+            },
+            {
+                "jp": "さかな",
+                "uzb": "baliq"
+            },
+            {
+                "jp": "やさい",
+                "uzb": "sabzavot, poliz ekinlari"
+            },
+            {
+                "jp": "くだもの",
+                "uzb": "meva"
+            },
+            {
+                "jp": "みず",
+                "uzb": "suv"
+            },
+            {
+                "jp": "おちゃ",
+                "uzb": "choy"
+            },
+            {
+                "jp": "こうちゃ",
+                "uzb": "qora choy"
+            },
+            {
+                "jp": "ぎゅうにゅう （ミルク）",
+                "uzb": "sut"
+            },
+            {
+                "jp": "ジュース",
+                "uzb": "sharbat"
+            },
+            {
+                "jp": "ビール",
+                "uzb": "pivo"
+            },
+            {
+                "jp": "[お]さけ",
+                "uzb": "guruchdan tayyorlanadigan yapon arog‘i"
+            },
+            {
+                "jp": "たばこ",
+                "uzb": "tamaki"
+            },
+            {
+                "jp": "てがみ",
+                "uzb": "xat, maktub"
+            },
+            {
+                "jp": "レポート",
+                "uzb": "hisobot; ma’ruza"
+            },
+            {
+                "jp": "しゃしん",
+                "uzb": "fotosurat"
+            },
+            {
+                "jp": "ビデオ",
+                "uzb": "video"
+            },
+            {
+                "jp": "みせ",
+                "uzb": "do‘kon"
+            },
+            {
+                "jp": "にわ",
+                "uzb": "hovli, bog‘"
+            },
+            {
+                "jp": "しゅくだい",
+                "uzb": "uyga vazifa"
+            },
+            {
+                "jp": "テニス",
+                "uzb": "tennis (～します tennis o‘ynamoq)"
+            },
+            {
+                "jp": "サッカー",
+                "uzb": "futbol (～します futbol o‘ynamoq)"
+            },
+            {
+                "jp": "[お]はなみ",
+                "uzb": "gullagan sakura daraxtini tomosha qilish (～します ～qilmoq)"
+            },
+            {
+                "jp": "なに",
+                "uzb": "nima"
+            },
+            {
+                "jp": "いっしょに",
+                "uzb": "birga"
+            },
+            {
+                "jp": "ちょっと",
+                "uzb": "bir oz, ozgina, ozroq"
+            },
+            {
+                "jp": "いつも",
+                "uzb": "har doim, doimo"
+            },
+            {
+                "jp": "ときどき",
+                "uzb": "ba’zan"
+            },
+            {
+                "jp": "それから",
+                "uzb": "undan so‘ng, undan keyin"
+            },
+            {
+                "jp": "ええ",
+                "uzb": "ha"
+            },
+            {
+                "jp": "いいですね。",
+                "uzb": "Qanday yaxshi."
+            },
+            {
+                "jp": "わかりました。",
+                "uzb": "Tushundim."
+            },
+            {
+                "jp": "なんですか。",
+                "uzb": "Nima?"
+            },
+            {
+                "jp": "じゃ、また[あした]。",
+                "uzb": "Ko‘rishguncha."
+            },
+            {
+                "jp": "メキシコ",
+                "uzb": "Meksika"
+            },
+            {
+                "jp": "おおさかデパート",
+                "uzb": "Osaka univermagi (o‘ylab topilgan)"
+            },
+            {
+                "jp": "つるや",
+                "uzb": "Tsuru do‘koni (o‘ylab topilgan)"
+            },
+            {
+                "jp": "フランスや",
+                "uzb": "Furansu do‘koni (o‘ylab topilgan)"
+            },
+            {
+                "jp": "まいにちや",
+                "uzb": "Mainichi do‘koni (o‘ylab topilgan)"
+            }
+        ]
+    },
+    {
+        "dars": 7,
+        "so'zlar": [
+            {
+                "jp": "きります",
+                "uzb": "kesmoq (pichoqda), qirqmoq (qaychida)"
+            },
+            {
+                "jp": "おくります",
+                "uzb": "jo‘natmoq"
+            },
+            {
+                "jp": "あげます",
+                "uzb": "bermoq, sovg‘a qilmoq"
+            },
+            {
+                "jp": "もらいます",
+                "uzb": "olmoq"
+            },
+            {
+                "jp": "かします",
+                "uzb": "qarzga bermoq, berib turmoq"
+            },
+            {
+                "jp": "かります",
+                "uzb": "qarzga olmoq, olib turmoq"
+            },
+            {
+                "jp": "おしえます",
+                "uzb": "o‘rgatmoq, saboq bermoq"
+            },
+            {
+                "jp": "ならいます",
+                "uzb": "o‘rganmoq, saboq olmoq"
+            },
+            {
+                "jp": "かけます [でんわを〜]",
+                "uzb": "qo‘ng‘iroq qilmoq"
+            },
+            {
+                "jp": "て",
+                "uzb": "qo‘l"
+            },
+            {
+                "jp": "はし",
+                "uzb": "hashi (ovqat yeyishda qo‘llaniladigan cho‘p)"
+            },
+            {
+                "jp": "スプーン",
+                "uzb": "qoshiq"
+            },
+            {
+                "jp": "ナイフ",
+                "uzb": "pichoq"
+            },
+            {
+                "jp": "フォーク",
+                "uzb": "sanchqi (vilka)"
+            },
+            {
+                "jp": "はさみ",
+                "uzb": "qaychi"
+            },
+            {
+                "jp": "パソコン",
+                "uzb": "shaxsiy kompyuter"
+            },
+            {
+                "jp": "ケータイ",
+                "uzb": "uyali telefon"
+            },
+            {
+                "jp": "メール",
+                "uzb": "mail"
+            },
+            {
+                "jp": "ねんがじょう",
+                "uzb": "yangi yil tabrik qog‘ozi, yangi yil tabriknomasi"
+            },
+            {
+                "jp": "パンチ",
+                "uzb": "qog‘ozni teshish uchun mo‘ljallangan moslama"
+            },
+            {
+                "jp": "ホッチキス",
+                "uzb": "stepler"
+            },
+            {
+                "jp": "セロテープ",
+                "uzb": "skoch"
+            },
+            {
+                "jp": "けしゴム",
+                "uzb": "o‘chirg‘ich"
+            },
+            {
+                "jp": "かみ",
+                "uzb": "qog‘oz"
+            },
+            {
+                "jp": "はな",
+                "uzb": "gul"
+            },
+            {
+                "jp": "シャツ",
+                "uzb": "ko‘ylak"
+            },
+            {
+                "jp": "プレゼント",
+                "uzb": "sovg‘a, tuhva, hadya"
+            },
+            {
+                "jp": "にもつ",
+                "uzb": "buyum, yuk"
+            },
+            {
+                "jp": "おかね",
+                "uzb": "pul"
+            },
+            {
+                "jp": "きっぷ",
+                "uzb": "chipta"
+            },
+            {
+                "jp": "クリスマス",
+                "uzb": "Krismas bayrami"
+            },
+            {
+                "jp": "ちち",
+                "uzb": "otam, dadam"
+            },
+            {
+                "jp": "はは",
+                "uzb": "onam, oyim"
+            },
+            {
+                "jp": "おとうさん",
+                "uzb": "ota, dada / ～ning otasi"
+            },
+            {
+                "jp": "おかあさん",
+                "uzb": "ona, oyi / ～ning onasi"
+            },
+            {
+                "jp": "もう",
+                "uzb": "allaqachon"
+            },
+            {
+                "jp": "まだ",
+                "uzb": "hali ham,hali"
+            },
+            {
+                "jp": "これから",
+                "uzb": "endi; bundan buyon"
+            },
+            {
+                "jp": "[〜、]すてきですね。",
+                "uzb": "Buncha chiroyli!"
+            },
+            {
+                "jp": "いらっしゃい。",
+                "uzb": "Xush kelibsiz."
+            },
+            {
+                "jp": "どうぞ おあがり ください。",
+                "uzb": "Ichkariga marhamat."
+            },
+            {
+                "jp": "しつれいします。",
+                "uzb": "Rahmat/Sizni ham bezovta qilib qo‘ydim.Kechirasiz (ichkariga kirishda mehmon tomonidan qo‘llaniladigan ibora)."
+            },
+            {
+                "jp": "[〜は] いかがですか。",
+                "uzb": "～ga nima deysiz?"
+            },
+            {
+                "jp": "いただきます。",
+                "uzb": "(Yeyish, ichishdan oldin qo‘llaniladigan ibora.)"
+            },
+            {
+                "jp": "ごちそうさま[でした]。",
+                "uzb": "Rahmat (ovqat uchun)."
+            },
+            {
+                "jp": "スペイン",
+                "uzb": "Ispaniya"
+            }
+        ]
+    },
+    {
+        "dars": 8,
+        "so'zlar": [
+            {
+                "jp": "ハンサム[な]",
+                "uzb": "kelishgan, chiroyli (erkak kishiga nisbatan qo‘llaniladi.)"
+            },
+            {
+                "jp": "きれい[な]",
+                "uzb": "chiroyli, go‘zal; toza"
+            },
+            {
+                "jp": "しずか[な]",
+                "uzb": "tinch, osoyishta"
+            },
+            {
+                "jp": "にぎやか[な]",
+                "uzb": "gavjum, sershovqin"
+            },
+            {
+                "jp": "ゆうめい[な]",
+                "uzb": "mashhur"
+            },
+            {
+                "jp": "しんせつ[な]",
+                "uzb": "mehribon"
+            },
+            {
+                "jp": "げんき[な]",
+                "uzb": "sog‘lom, baquvvat"
+            },
+            {
+                "jp": "ひま[な]",
+                "uzb": "bo‘sh (vaqt)"
+            },
+            {
+                "jp": "べんり[な]",
+                "uzb": "qulay"
+            },
+            {
+                "jp": "すてき[な]",
+                "uzb": "chiroyli, ajoyib"
+            },
+            {
+                "jp": "おおきい",
+                "uzb": "katta"
+            },
+            {
+                "jp": "ちいさい",
+                "uzb": "kichik"
+            },
+            {
+                "jp": "あたらしい",
+                "uzb": "yangi"
+            },
+            {
+                "jp": "ふるい",
+                "uzb": "eski"
+            },
+            {
+                "jp": "いい（よい）",
+                "uzb": "yaxshi"
+            },
+            {
+                "jp": "わるい",
+                "uzb": "yomon"
+            },
+            {
+                "jp": "あつい",
+                "uzb": "issiq"
+            },
+            {
+                "jp": "さむい",
+                "uzb": "sovuq"
+            },
+            {
+                "jp": "つめたい",
+                "uzb": "sovuq, yaxtak (qo‘l bilan sezish mumkin bo‘lgan narsalarga nisbatan qo‘llaniladi)"
+            },
+            {
+                "jp": "むずかしい",
+                "uzb": "qiyin"
+            },
+            {
+                "jp": "やさしい",
+                "uzb": "oson"
+            },
+            {
+                "jp": "たかい",
+                "uzb": "qimmat; baland"
+            },
+            {
+                "jp": "やすい",
+                "uzb": "arzon"
+            },
+            {
+                "jp": "ひくい",
+                "uzb": "past"
+            },
+            {
+                "jp": "おもしろい",
+                "uzb": "qiziqarli"
+            },
+            {
+                "jp": "おいしい",
+                "uzb": "mazali"
+            },
+            {
+                "jp": "いそがしい",
+                "uzb": "band"
+            },
+            {
+                "jp": "たのしい",
+                "uzb": "qiziqarli, mazmunli (vaqtga nisbatan)"
+            },
+            {
+                "jp": "しろい",
+                "uzb": "oq"
+            },
+            {
+                "jp": "くろい",
+                "uzb": "qora"
+            },
+            {
+                "jp": "あかい",
+                "uzb": "qizil"
+            },
+            {
+                "jp": "あおい",
+                "uzb": "ko‘k"
+            },
+            {
+                "jp": "さくら",
+                "uzb": "sakura (yaponiyadagi daraxt nomi)"
+            },
+            {
+                "jp": "やま",
+                "uzb": "tog‘"
+            },
+            {
+                "jp": "まち",
+                "uzb": "shahar, shaharcha"
+            },
+            {
+                "jp": "たべもの",
+                "uzb": "ovqat"
+            },
+            {
+                "jp": "ところ",
+                "uzb": "joy, yer"
+            },
+            {
+                "jp": "りょう",
+                "uzb": "yotoqxona"
+            },
+            {
+                "jp": "レストラン",
+                "uzb": "restoran"
+            },
+            {
+                "jp": "せいかつ",
+                "uzb": "turmush, hayot"
+            },
+            {
+                "jp": "[お]しごと",
+                "uzb": "ish (～をします ishlamoq)"
+            },
+            {
+                "jp": "どう",
+                "uzb": "qanday, qanaqa"
+            },
+            {
+                "jp": "どんな〜",
+                "uzb": "qanday～，qanaqa～"
+            },
+            {
+                "jp": "とても",
+                "uzb": "juda"
+            },
+            {
+                "jp": "あまり",
+                "uzb": "uncha ～ emas, unchalik ～ emas (inkor bilan qo‘llaniladi)"
+            },
+            {
+                "jp": "そして",
+                "uzb": "keyin"
+            },
+            {
+                "jp": "〜が、〜",
+                "uzb": "～‐yu, ～．;～. Lekin，～．"
+            },
+            {
+                "jp": "おげんきですか。",
+                "uzb": "Yaxshimisiz? / Salomatmisiz?"
+            },
+            {
+                "jp": "そうですね。",
+                "uzb": "Rost aytasiz. Ha shunday (Suhbatning uzilib qolmasligiga xizmat qilib, “ma’qullash” yoki “fikr jamlash” ni ifodalaydi)."
+            },
+            {
+                "jp": "[〜、]もう ⼀杯 いかがですか。",
+                "uzb": "Yana bir piyola (chashka)～ichasizmi?"
+            },
+            {
+                "jp": "[〜、]もう いっぱい いかがですか。",
+                "uzb": "Yana bir piyola (chashka)～ichasizmi?"
+            },
+            {
+                "jp": "[いいえ、]けっこうです。",
+                "uzb": "Yo‘q, rahmat."
+            },
+            {
+                "jp": "もう 〜です[ね]。",
+                "uzb": "Endi～-a?"
+            },
+            {
+                "jp": "そろそろ しつれいします。",
+                "uzb": "Endi bizga ruxsat."
+            },
+            {
+                "jp": "いいえ。",
+                "uzb": "Arzimaydi., Hechqisi yo‘q."
+            },
+            {
+                "jp": "また いらっしゃって ください。",
+                "uzb": "Yana keling."
+            },
+            {
+                "jp": "シャンハイ",
+                "uzb": "Shanxay（上海）"
+            },
+            {
+                "jp": "きんかくじ",
+                "uzb": "Kinkakuji ibodatxonasi"
+            },
+            {
+                "jp": "ならこうえん",
+                "uzb": "Nara bog‘i"
+            },
+            {
+                "jp": "ふじさん",
+                "uzb": "Fuji tog‘i"
+            },
+            {
+                "jp": "「しちにんの さむらい」",
+                "uzb": "“Yetti samuray”"
+            }
+        ]
+    },
+    {
+        "dars": 9,
+        "so'zlar": [
+            {
+                "jp": "わかります",
+                "uzb": "tushunmoq"
+            },
+            {
+                "jp": "あります",
+                "uzb": "bor (jonsiz narsalarga nisbatan)"
+            },
+            {
+                "jp": "すき[な]",
+                "uzb": "yoqimli, yoqtirgan, suygan"
+            },
+            {
+                "jp": "きらい[な]",
+                "uzb": "yoqimsiz, yoqtirmagan, suymagan"
+            },
+            {
+                "jp": "じょうず[な]",
+                "uzb": "mohir, usta, zo‘r"
+            },
+            {
+                "jp": "へた[な]",
+                "uzb": "no‘noq, mahoratsiz"
+            },
+            {
+                "jp": "のみもの",
+                "uzb": "ichimlik"
+            },
+            {
+                "jp": "りょうり",
+                "uzb": "ovqat, taom"
+            },
+            {
+                "jp": "スポーツ",
+                "uzb": "sport"
+            },
+            {
+                "jp": "やきゅう",
+                "uzb": "beysbol"
+            },
+            {
+                "jp": "ダンス",
+                "uzb": "raqs"
+            },
+            {
+                "jp": "りょこう",
+                "uzb": "sayohat, safar (～する sayohat qilmoq)"
+            },
+            {
+                "jp": "おんがく",
+                "uzb": "musiqa"
+            },
+            {
+                "jp": "うた",
+                "uzb": "qo‘shiq"
+            },
+            {
+                "jp": "クラシック",
+                "uzb": "klassik, mumtoz"
+            },
+            {
+                "jp": "ジャズ",
+                "uzb": "jaz"
+            },
+            {
+                "jp": "コンサート",
+                "uzb": "konsert"
+            },
+            {
+                "jp": "カラオケ",
+                "uzb": "karaoke"
+            },
+            {
+                "jp": "かぶき",
+                "uzb": "kabuki (yaponiyadagi teatr turi)"
+            },
+            {
+                "jp": "え",
+                "uzb": "rasm"
+            },
+            {
+                "jp": "じ",
+                "uzb": "harf"
+            },
+            {
+                "jp": "かんじ",
+                "uzb": "belgi, iyeroglif"
+            },
+            {
+                "jp": "ひらがな",
+                "uzb": "hiragana (yapon alifbosi)"
+            },
+            {
+                "jp": "かたかな",
+                "uzb": "katakana (yapon alifbosi)"
+            },
+            {
+                "jp": "ローマじ",
+                "uzb": "lotin yozuvi"
+            },
+            {
+                "jp": "こまかい おかね",
+                "uzb": "mayda pul"
+            },
+            {
+                "jp": "チケット",
+                "uzb": "chipta"
+            },
+            {
+                "jp": "じかん",
+                "uzb": "vaqt"
+            },
+            {
+                "jp": "ようじ",
+                "uzb": "ish, yumush"
+            },
+            {
+                "jp": "やくそく",
+                "uzb": "va’da"
+            },
+            {
+                "jp": "アルバイト",
+                "uzb": "qo‘shimcha ish (〜を します： qo‘shimcha ish qilmoq)"
+            },
+            {
+                "jp": "ごしゅじん",
+                "uzb": "xo‘jayin(ingiz), er(ingiz)"
+            },
+            {
+                "jp": "おっと／しゅじん",
+                "uzb": "xo‘jayin(im), er(im)"
+            },
+            {
+                "jp": "おくさん",
+                "uzb": "ayol(ingiz), xotin(ingiz)"
+            },
+            {
+                "jp": "つま／かない",
+                "uzb": "ayol(im), xotin(im)"
+            },
+            {
+                "jp": "こども",
+                "uzb": "bola, farzand"
+            },
+            {
+                "jp": "よく",
+                "uzb": "tez-tez; yaxshi; rosa"
+            },
+            {
+                "jp": "だいたい",
+                "uzb": "deyarli"
+            },
+            {
+                "jp": "たくさん",
+                "uzb": "ko‘p"
+            },
+            {
+                "jp": "すこし",
+                "uzb": "ozgina, ozroq, biroz, kam"
+            },
+            {
+                "jp": "ぜんぜん",
+                "uzb": "umuman, hech"
+            },
+            {
+                "jp": "はやく",
+                "uzb": "erta, barvaqt; tez"
+            },
+            {
+                "jp": "〜から",
+                "uzb": "～dan"
+            },
+            {
+                "jp": "どうして",
+                "uzb": "nima uchun"
+            },
+            {
+                "jp": "かして ください",
+                "uzb": "Berib turing"
+            },
+            {
+                "jp": "いいですよ。",
+                "uzb": "Mayli."
+            },
+            {
+                "jp": "ざんねんです[が]",
+                "uzb": "Afsus"
+            },
+            {
+                "jp": "ああ",
+                "uzb": "A, voy"
+            },
+            {
+                "jp": "いっしょに いかがですか。",
+                "uzb": "Birga (fe’l～)maymizmi?"
+            },
+            {
+                "jp": "[〜は]ちょっと……。",
+                "uzb": "～biroz ... . (rad etish iborasi)"
+            },
+            {
+                "jp": "だめですか。",
+                "uzb": "Bo‘lmaydimi?"
+            },
+            {
+                "jp": "また こんど おねがいします。",
+                "uzb": "Keyingi safar / Boshqa safar."
+            }
+        ]
+    },
+    {
+        "dars": 10,
+        "so'zlar": [
+            {
+                "jp": "あります",
+                "uzb": "bor (jonsiz narsalarga)"
+            },
+            {
+                "jp": "います",
+                "uzb": "bor (jonli narsalarga)"
+            },
+            {
+                "jp": "いろいろ[な]",
+                "uzb": "har xil, turli xil"
+            },
+            {
+                "jp": "おとこのひと",
+                "uzb": "erkak kishi"
+            },
+            {
+                "jp": "おんなのひと",
+                "uzb": "ayol kishi"
+            },
+            {
+                "jp": "おとこのこ",
+                "uzb": "o‘g‘il bola"
+            },
+            {
+                "jp": "おんなのこ",
+                "uzb": "qiz bola"
+            },
+            {
+                "jp": "いぬ",
+                "uzb": "kuchuk, it"
+            },
+            {
+                "jp": "ねこ",
+                "uzb": "mushuk"
+            },
+            {
+                "jp": "パンダ",
+                "uzb": "panda"
+            },
+            {
+                "jp": "ぞう",
+                "uzb": "fil"
+            },
+            {
+                "jp": "き",
+                "uzb": "daraxt"
+            },
+            {
+                "jp": "もの",
+                "uzb": "narsa, buyum"
+            },
+            {
+                "jp": "でんち",
+                "uzb": "batareya"
+            },
+            {
+                "jp": "はこ",
+                "uzb": "quti"
+            },
+            {
+                "jp": "スイッチ",
+                "uzb": "o‘chirib-yoqgich (viklyuchatel)"
+            },
+            {
+                "jp": "れいぞうこ",
+                "uzb": "muzlatgich"
+            },
+            {
+                "jp": "テーブル",
+                "uzb": "stol"
+            },
+            {
+                "jp": "ベッド",
+                "uzb": "krovat"
+            },
+            {
+                "jp": "たな",
+                "uzb": "tokcha"
+            },
+            {
+                "jp": "ドア",
+                "uzb": "eshik"
+            },
+            {
+                "jp": "まど",
+                "uzb": "deraza"
+            },
+            {
+                "jp": "ポスト",
+                "uzb": "pochta qutisi"
+            },
+            {
+                "jp": "ビル",
+                "uzb": "bino"
+            },
+            {
+                "jp": "ATM",
+                "uzb": "avtomat mashina (pulni yechib olish, kartadagi hisobni tekshirish kabi vazifalarni bajarish uchun mo‘ljallangan)"
+            },
+            {
+                "jp": "コンビニ",
+                "uzb": "24 soat ishlaydigan do‘kon"
+            },
+            {
+                "jp": "こうえん",
+                "uzb": "xiyobon (park, bog‘)"
+            },
+            {
+                "jp": "きっさてん",
+                "uzb": "qahvaxona"
+            },
+            {
+                "jp": "〜や",
+                "uzb": "〜do‘koni"
+            },
+            {
+                "jp": "のりば",
+                "uzb": "bekat"
+            },
+            {
+                "jp": "けん",
+                "uzb": "viloyat"
+            },
+            {
+                "jp": "うえ",
+                "uzb": "ust, tepa, yuqori"
+            },
+            {
+                "jp": "した",
+                "uzb": "ost, past"
+            },
+            {
+                "jp": "まえ",
+                "uzb": "old"
+            },
+            {
+                "jp": "うしろ",
+                "uzb": "orqa"
+            },
+            {
+                "jp": "みぎ",
+                "uzb": "o‘ng"
+            },
+            {
+                "jp": "ひだり",
+                "uzb": "chap"
+            },
+            {
+                "jp": "そと",
+                "uzb": "tashqar"
+            },
+            {
+                "jp": "なか",
+                "uzb": "ich, ichkari"
+            },
+            {
+                "jp": "となり",
+                "uzb": "yon, qo‘shni"
+            },
+            {
+                "jp": "ちかく",
+                "uzb": "yaqin"
+            },
+            {
+                "jp": "あいだ",
+                "uzb": "ora, o‘rta"
+            },
+            {
+                "jp": "〜や〜[など]",
+                "uzb": "～va～［kabilar]"
+            },
+            {
+                "jp": "[どうも]すみません。",
+                "uzb": "Katta rahmat (bu yerda “kechirim”emas, minnatdorchilik ma’nosini anglatadi)"
+            },
+            {
+                "jp": "ナンプラー",
+                "uzb": "sous nomi"
+            },
+            {
+                "jp": "コーナー",
+                "uzb": "burchak"
+            },
+            {
+                "jp": "いちばんした",
+                "uzb": "eng pasti"
+            },
+            {
+                "jp": "とうきょうディズニーランド",
+                "uzb": "Tokio Disneylendi"
+            },
+            {
+                "jp": "アジアストア",
+                "uzb": "Ajia supermarketi"
+            }
+        ]
+    },
+    {
+        "dars": 11,
+        "so'zlar": [
+            {
+                "jp": "います[こどもが〜]",
+                "uzb": "bor (bolasi bor)"
+            },
+            {
+                "jp": "います[にほんに〜]",
+                "uzb": "bo‘lmoq (Yaponiyada bo‘lmoq)"
+            },
+            {
+                "jp": "かかります",
+                "uzb": "sarf bo‘lmoq, ketmoq (pul yoki vaqt)"
+            },
+            {
+                "jp": "やすみます[かいしゃを〜]",
+                "uzb": "dam olmoq; qoldirmoq (ishga chiqmaslik)"
+            },
+            {
+                "jp": "ひとつ",
+                "uzb": "bitta"
+            },
+            {
+                "jp": "ふたつ",
+                "uzb": "ikkita"
+            },
+            {
+                "jp": "みっつ",
+                "uzb": "uchta"
+            },
+            {
+                "jp": "よっつ",
+                "uzb": "to‘rtta"
+            },
+            {
+                "jp": "いつつ",
+                "uzb": "beshta"
+            },
+            {
+                "jp": "むっつ",
+                "uzb": "olti"
+            },
+            {
+                "jp": "ななつ",
+                "uzb": "yetti"
+            },
+            {
+                "jp": "やっつ",
+                "uzb": "sakkiz"
+            },
+            {
+                "jp": "ここのつ",
+                "uzb": "to‘qqiz"
+            },
+            {
+                "jp": "とお",
+                "uzb": "o‘nta"
+            },
+            {
+                "jp": "いくつ",
+                "uzb": "qancha, nechta"
+            },
+            {
+                "jp": "ひとり",
+                "uzb": "bitta, bir kishi"
+            },
+            {
+                "jp": "ふたり",
+                "uzb": "ikkita, ikki kishi"
+            },
+            {
+                "jp": "―にん",
+                "uzb": "～kishi, ～odam (sanoq suffiksi)"
+            },
+            {
+                "jp": "―だい",
+                "uzb": "～ta (texnikaga nisbatan sanoq suffiksi)"
+            },
+            {
+                "jp": "―まい",
+                "uzb": "～ta (yupqa narsalarga nisbatan sanoq suffiksi)"
+            },
+            {
+                "jp": "―かい",
+                "uzb": "～marta (takror ish-harakatga nisbatan sanoq suffiksi)"
+            },
+            {
+                "jp": "りんご",
+                "uzb": "olma"
+            },
+            {
+                "jp": "みかん",
+                "uzb": "mandarin"
+            },
+            {
+                "jp": "サンドイッチ",
+                "uzb": "sendvich"
+            },
+            {
+                "jp": "カレー[ライス]",
+                "uzb": "kareraysu (yaponcha taom nomi) [karri sousi qaynatilgan guruch bilan]"
+            },
+            {
+                "jp": "アイスクリーム",
+                "uzb": "muzqaymoq"
+            },
+            {
+                "jp": "きって",
+                "uzb": "pochta markasi"
+            },
+            {
+                "jp": "はがき",
+                "uzb": "otkritka"
+            },
+            {
+                "jp": "ふうとう",
+                "uzb": "konvert"
+            },
+            {
+                "jp": "りょうしん",
+                "uzb": "ota-ona"
+            },
+            {
+                "jp": "きょうだい",
+                "uzb": "farzandlar, aka-ukalar"
+            },
+            {
+                "jp": "あに",
+                "uzb": "akam"
+            },
+            {
+                "jp": "おにいさん",
+                "uzb": "akangiz, akasi"
+            },
+            {
+                "jp": "あね",
+                "uzb": "opam"
+            },
+            {
+                "jp": "おねえさん",
+                "uzb": "opangiz, opasi"
+            },
+            {
+                "jp": "おとうと",
+                "uzb": "ukam"
+            },
+            {
+                "jp": "おとうとさん",
+                "uzb": "ukangiz, ukasi"
+            },
+            {
+                "jp": "いもうと",
+                "uzb": "singlim"
+            },
+            {
+                "jp": "いもうとさん",
+                "uzb": "singlingiz, singlisi"
+            },
+            {
+                "jp": "がいこく",
+                "uzb": "chet el, xorij"
+            },
+            {
+                "jp": "りゅうがくせい",
+                "uzb": "xorijlik talaba"
+            },
+            {
+                "jp": "クラス",
+                "uzb": "sinf"
+            },
+            {
+                "jp": "―じかん",
+                "uzb": "～soat"
+            },
+            {
+                "jp": "―しゅうかん",
+                "uzb": "～hafta"
+            },
+            {
+                "jp": "―かげつ",
+                "uzb": "～oy"
+            },
+            {
+                "jp": "―ねん",
+                "uzb": "～yil"
+            },
+            {
+                "jp": "〜ぐらい",
+                "uzb": "～lar, ーcha, taxminan～"
+            },
+            {
+                "jp": "どのくらい",
+                "uzb": "qancha (vaqt)"
+            },
+            {
+                "jp": "ぜんぶで",
+                "uzb": "hammasi bo‘lib"
+            },
+            {
+                "jp": "みんな",
+                "uzb": "hamma, barcha"
+            },
+            {
+                "jp": "〜だけ",
+                "uzb": "faqat ～"
+            },
+            {
+                "jp": "かしこまりました。",
+                "uzb": "Tushundim / Uqdim."
+            },
+            {
+                "jp": "いい[お]てんきですね。",
+                "uzb": "Yaxshi ob-havo-ya?"
+            },
+            {
+                "jp": "おでかけですか。",
+                "uzb": "Ko‘chagami? Tashqariga chiqyapsizmi?"
+            },
+            {
+                "jp": "ちょっと〜まで。",
+                "uzb": "～ga borib kelaman."
+            },
+            {
+                "jp": "いってらっしゃい。",
+                "uzb": "Yaxshi borib keling(lar)."
+            },
+            {
+                "jp": "いってきます。",
+                "uzb": "Yaxshi qoling(lar)."
+            },
+            {
+                "jp": "ふなびん",
+                "uzb": "dengiz orqali pochta"
+            },
+            {
+                "jp": "こうくうびん（エアメール）",
+                "uzb": "avia pochta"
+            }
+        ]
+    },
+    {
+        "dars": 12,
+        "so'zlar": [
+            {
+                "jp": "かんたん[な]",
+                "uzb": "oson"
+            },
+            {
+                "jp": "ちかい",
+                "uzb": "yaqin"
+            },
+            {
+                "jp": "とおい",
+                "uzb": "uzoq, olis"
+            },
+            {
+                "jp": "はやい",
+                "uzb": "tez, barvaqt"
+            },
+            {
+                "jp": "おそい",
+                "uzb": "sekin"
+            },
+            {
+                "jp": "おおい[ひとが〜]",
+                "uzb": "ko‘p (odam ko‘p)"
+            },
+            {
+                "jp": "すくない[ひとが〜]",
+                "uzb": "kam (odam kam)"
+            },
+            {
+                "jp": "あたたかい",
+                "uzb": "iliq"
+            },
+            {
+                "jp": "すずしい",
+                "uzb": "salqin"
+            },
+            {
+                "jp": "あまい",
+                "uzb": "shirin"
+            },
+            {
+                "jp": "からい",
+                "uzb": "achchiq"
+            },
+            {
+                "jp": "おもい",
+                "uzb": "og‘ir"
+            },
+            {
+                "jp": "かるい",
+                "uzb": "yengil"
+            },
+            {
+                "jp": "いい[コーヒーが]",
+                "uzb": "yaxshi, zo‘r (yaxshi kofe)"
+            },
+            {
+                "jp": "きせつ",
+                "uzb": "fasl"
+            },
+            {
+                "jp": "はる",
+                "uzb": "bahor"
+            },
+            {
+                "jp": "なつ",
+                "uzb": "yoz"
+            },
+            {
+                "jp": "あき",
+                "uzb": "kuz"
+            },
+            {
+                "jp": "ふゆ",
+                "uzb": "qish"
+            },
+            {
+                "jp": "てんき",
+                "uzb": "ob-havo"
+            },
+            {
+                "jp": "あめ",
+                "uzb": "yomg‘ir"
+            },
+            {
+                "jp": "ゆき",
+                "uzb": "qor"
+            },
+            {
+                "jp": "くもり",
+                "uzb": "bulutli (havo)"
+            },
+            {
+                "jp": "ホテル",
+                "uzb": "mehmonxona"
+            },
+            {
+                "jp": "くうこう",
+                "uzb": "aeroport"
+            },
+            {
+                "jp": "うみ",
+                "uzb": "dengiz"
+            },
+            {
+                "jp": "せかい",
+                "uzb": "jahon, dunyo"
+            },
+            {
+                "jp": "パーティー",
+                "uzb": "kecha, ziyofat, bazm (〜をします: kecha uyushtirmoq)"
+            },
+            {
+                "jp": "[お]まつり",
+                "uzb": "bayram"
+            },
+            {
+                "jp": "すきやき",
+                "uzb": "sukiyaki (go‘sht va sabzavotlardan tayyorlanadigan issiq ovqat)"
+            },
+            {
+                "jp": "さしみ",
+                "uzb": "sashimi (yupqa qilib qirqilgan xom baliq)"
+            },
+            {
+                "jp": "[お]すし",
+                "uzb": "sushi"
+            },
+            {
+                "jp": "てんぷら",
+                "uzb": "tempura- qovurilgan sabzavot va baliq"
+            },
+            {
+                "jp": "ぶたにく",
+                "uzb": "cho‘chqa go‘shti"
+            },
+            {
+                "jp": "とりにく",
+                "uzb": "tovuq go‘shti"
+            },
+            {
+                "jp": "ぎゅうにく",
+                "uzb": "mol go‘shti"
+            },
+            {
+                "jp": "レモン",
+                "uzb": "limon"
+            },
+            {
+                "jp": "いけばな",
+                "uzb": "ikebana, gullar aranjirovkasi (〜をします； ikebana bilan shug‘ullanmoq)"
+            },
+            {
+                "jp": "もみじ",
+                "uzb": "xazon, qizil barg"
+            },
+            {
+                "jp": "どちら",
+                "uzb": "qaysi biri, qay biri (ikki predmetni tanlashda)"
+            },
+            {
+                "jp": "どちらも",
+                "uzb": "ikkalasi ham"
+            },
+            {
+                "jp": "いちばん",
+                "uzb": "eng～"
+            },
+            {
+                "jp": "ずっと",
+                "uzb": "ancha; ancha vaqt oldin; ancha vaqt"
+            },
+            {
+                "jp": "はじめて",
+                "uzb": "birinchi bor, ilk bor"
+            },
+            {
+                "jp": "ただいま。",
+                "uzb": "Men keldim (uyiga qaytib kelganda)"
+            },
+            {
+                "jp": "おかえりなさい。 お帰りなさい。",
+                "uzb": "Yaxshi keldingizmi?"
+            },
+            {
+                "jp": "わあ、すごいひとですね。",
+                "uzb": "Juda ajoyib inson."
+            },
+            {
+                "jp": "つかれました。 疲れました。",
+                "uzb": "Charchadim."
+            },
+            {
+                "jp": "ぎおんまつり",
+                "uzb": "Gion bayrami (Kiotodagi eng katta bayram)"
+            },
+            {
+                "jp": "ホンコン",
+                "uzb": "Gonkong"
+            },
+            {
+                "jp": "シンガポール",
+                "uzb": "Singapur"
+            },
+            {
+                "jp": "ABC ストア",
+                "uzb": "ABC supermarketi (o‘ylab topilgan)"
+            },
+            {
+                "jp": "ジャパン",
+                "uzb": "Jyapan supermarketi (o‘ylab topilgan)"
+            }
+        ]
+    },
+    {
+        "dars": 13,
+        "so'zlar": [
+            {
+                "jp": "あそびます",
+                "uzb": "o‘ynamoq"
+            },
+            {
+                "jp": "およぎます",
+                "uzb": "cho‘milmoq, suzmoq"
+            },
+            {
+                "jp": "むかえます",
+                "uzb": "kutib olmoq"
+            },
+            {
+                "jp": "つかれます",
+                "uzb": "charchamoq"
+            },
+            {
+                "jp": "けっこんします",
+                "uzb": "turmush qurmoq"
+            },
+            {
+                "jp": "かいものします",
+                "uzb": "xarid qilmoq"
+            },
+            {
+                "jp": "しょくじします",
+                "uzb": "ovqatlanmoq"
+            },
+            {
+                "jp": "さんぽします [こうえんを〜]",
+                "uzb": "sayr qilmoq (xiyobonda sayr qilmoq)"
+            },
+            {
+                "jp": "たいへん[な]",
+                "uzb": "qiyin, og‘ir"
+            },
+            {
+                "jp": "ほしい",
+                "uzb": "xohlagan, xohlamoq"
+            },
+            {
+                "jp": "ひろい",
+                "uzb": "keng"
+            },
+            {
+                "jp": "せまい",
+                "uzb": "tor"
+            },
+            {
+                "jp": "プール",
+                "uzb": "basseyn, hovuz"
+            },
+            {
+                "jp": "かわ",
+                "uzb": "daryo"
+            },
+            {
+                "jp": "びじゅつ",
+                "uzb": "san’at"
+            },
+            {
+                "jp": "つり",
+                "uzb": "baliq tutish (～をします：baliq tutmoq)"
+            },
+            {
+                "jp": "スキー",
+                "uzb": "chang‘i; chang‘i uchish (～をします：chang‘i uchmoq)"
+            },
+            {
+                "jp": "しゅうまつ",
+                "uzb": "hafta oxiri, dam olish kuni"
+            },
+            {
+                "jp": "[お]しょうがつ",
+                "uzb": "yangi yil"
+            },
+            {
+                "jp": "〜ごろ",
+                "uzb": "larda (vaqt bilan qo‘llaniladi)"
+            },
+            {
+                "jp": "なにか",
+                "uzb": "nimadir, biror narsa"
+            },
+            {
+                "jp": "どこか",
+                "uzb": "qayerdir, biror joy"
+            },
+            {
+                "jp": "のどが かわきます",
+                "uzb": "Chanqamoq"
+            },
+            {
+                "jp": "おなかが すきます",
+                "uzb": "Qorin ochmoq"
+            },
+            {
+                "jp": "そうしましょう。",
+                "uzb": "Shunday qilaylik."
+            },
+            {
+                "jp": "ごちゅうもんは？",
+                "uzb": "Nimani buyurasiz?"
+            },
+            {
+                "jp": "ていしょく",
+                "uzb": "ovqatlar to‘plami"
+            },
+            {
+                "jp": "ぎゅうどん",
+                "uzb": "gyudon-qaynatilgan guruch ustida mol go‘shti"
+            },
+            {
+                "jp": "[しょうしょう]おまちください。",
+                "uzb": "Bir oz kutib turing"
+            },
+            {
+                "jp": "〜で ございま す。",
+                "uzb": "～dir. （です ning hurmat shakli）"
+            },
+            {
+                "jp": "べつべつに",
+                "uzb": "alohida"
+            },
+            {
+                "jp": "アキックス",
+                "uzb": "sport kompaniyasi nomi"
+            },
+            {
+                "jp": "おはようテレビ",
+                "uzb": "Ohayou teledastur nomi (o‘ylab topilgan)"
+            }
+        ]
+    },
+    {
+        "dars": 14,
+        "so'zlar": [
+            {
+                "jp": "つけます",
+                "uzb": "yoqmoq"
+            },
+            {
+                "jp": "けします",
+                "uzb": "o‘chirmoq"
+            },
+            {
+                "jp": "あけます",
+                "uzb": "ochmoq"
+            },
+            {
+                "jp": "しめます",
+                "uzb": "yopmoq"
+            },
+            {
+                "jp": "いそぎます",
+                "uzb": "shoshmoq"
+            },
+            {
+                "jp": "まちます",
+                "uzb": "kutmoq"
+            },
+            {
+                "jp": "もちます",
+                "uzb": "ushlab turmoq"
+            },
+            {
+                "jp": "とります",
+                "uzb": "olmoq"
+            },
+            {
+                "jp": "てつだいます",
+                "uzb": "yordam bermoq, ko‘maklashmoq"
+            },
+            {
+                "jp": "よびます",
+                "uzb": "chaqirmoq"
+            },
+            {
+                "jp": "はなします",
+                "uzb": "suhbatlashmoq"
+            },
+            {
+                "jp": "つかいます",
+                "uzb": "foydalanmoq, qo‘llamoq, ishlatmoq"
+            },
+            {
+                "jp": "とめます",
+                "uzb": "to‘xtatmoq"
+            },
+            {
+                "jp": "みせます",
+                "uzb": "ko‘rsatmoq"
+            },
+            {
+                "jp": "おしえます [じゅうしょを〜]",
+                "uzb": "o‘rgatmoq, aytmoq, ushuntirmoq (manzilni aytmoq)"
+            },
+            {
+                "jp": "すわります",
+                "uzb": "o‘tirmoq"
+            },
+            {
+                "jp": "たちます",
+                "uzb": "turmoq"
+            },
+            {
+                "jp": "はいります [きっさてんに〜]",
+                "uzb": "kirmoq (qahvaxonaga kirmoq)"
+            },
+            {
+                "jp": "でます [きっさてんに〜]",
+                "uzb": "chiqmoq (qahvaxonadan chiqmoq)"
+            },
+            {
+                "jp": "ふります [あめが〜]",
+                "uzb": "yog‘moq (yomg‘ir yog‘moq)"
+            },
+            {
+                "jp": "コピーします",
+                "uzb": "nusxa ko‘chirmoq"
+            },
+            {
+                "jp": "でんき",
+                "uzb": "chiroq"
+            },
+            {
+                "jp": "エアコン",
+                "uzb": "havo sovutgich"
+            },
+            {
+                "jp": "パスポート",
+                "uzb": "pasport"
+            },
+            {
+                "jp": "なまえ",
+                "uzb": "ism, nom"
+            },
+            {
+                "jp": "じゅうしょ",
+                "uzb": "manzil"
+            },
+            {
+                "jp": "ちず",
+                "uzb": "xarita"
+            },
+            {
+                "jp": "しお",
+                "uzb": "tuz"
+            },
+            {
+                "jp": "さとう",
+                "uzb": "shakar"
+            },
+            {
+                "jp": "もんだい",
+                "uzb": "masala; muammo"
+            },
+            {
+                "jp": "こたえ",
+                "uzb": "javob"
+            },
+            {
+                "jp": "よみかた",
+                "uzb": "o‘qilishi (o‘qilish uslubi)"
+            },
+            {
+                "jp": "〜かた",
+                "uzb": "～ish uslubi，～ish odobi"
+            },
+            {
+                "jp": "まっすぐ",
+                "uzb": "to‘g‘ri"
+            },
+            {
+                "jp": "ゆっくり",
+                "uzb": "sekin, bemalol"
+            },
+            {
+                "jp": "すぐ",
+                "uzb": "darhol"
+            },
+            {
+                "jp": "また",
+                "uzb": "yana"
+            },
+            {
+                "jp": "あとで",
+                "uzb": "keyin"
+            },
+            {
+                "jp": "もう すこし もう 少し",
+                "uzb": "yana ozgina"
+            },
+            {
+                "jp": "もう〜",
+                "uzb": "yana～"
+            },
+            {
+                "jp": "さあ",
+                "uzb": "demak, xo‘sh"
+            },
+            {
+                "jp": "あれ？",
+                "uzb": "Voy! (hayron bo‘lish iborasi)"
+            },
+            {
+                "jp": "しんごうを みぎへ まがって ください。",
+                "uzb": "Svetofordan o‘ngga qayriling."
+            },
+            {
+                "jp": "これで おねがいします。",
+                "uzb": "Buni oling, marhamat."
+            },
+            {
+                "jp": "おつり",
+                "uzb": "qaytim"
+            },
+            {
+                "jp": "みどりまち",
+                "uzb": "Midori shahri (o‘ylab topilgan)"
+            }
+        ]
+    },
+    {
+        "dars": 15,
+        "so'zlar": [
+            {
+                "jp": "おきます",
+                "uzb": "qo‘ymoq"
+            },
+            {
+                "jp": "つくります",
+                "uzb": "yasamoq; tayyorlamoq, pishirmoq"
+            },
+            {
+                "jp": "うります",
+                "uzb": "sotmoq"
+            },
+            {
+                "jp": "しります",
+                "uzb": "bilmoq"
+            },
+            {
+                "jp": "すみます",
+                "uzb": "yashamoq"
+            },
+            {
+                "jp": "けんきゅうします",
+                "uzb": "ilmiy tadqiqot olib bormoq"
+            },
+            {
+                "jp": "しりょう",
+                "uzb": "material, ma’lumot"
+            },
+            {
+                "jp": "カタログ",
+                "uzb": "katalog"
+            },
+            {
+                "jp": "じこくひょう",
+                "uzb": "vaqt jadval"
+            },
+            {
+                "jp": "ふく",
+                "uzb": "kiyim"
+            },
+            {
+                "jp": "せいひん",
+                "uzb": "mahsulot"
+            },
+            {
+                "jp": "ソフト",
+                "uzb": "dastur ta’minoti (kompyuter)"
+            },
+            {
+                "jp": "でんしじしょ",
+                "uzb": "elektron lug‘at"
+            },
+            {
+                "jp": "けいざい",
+                "uzb": "iqtisod"
+            },
+            {
+                "jp": "しやくしょ",
+                "uzb": "shahar hokimiyati"
+            },
+            {
+                "jp": "こうこう",
+                "uzb": "yuqori maktab (litsey)"
+            },
+            {
+                "jp": "はいしゃ",
+                "uzb": "tish doktori, stomatolog"
+            },
+            {
+                "jp": "どくしん",
+                "uzb": "bo‘ydoq, turmushga chiqmagan"
+            },
+            {
+                "jp": "すみません",
+                "uzb": "Kechirasiz"
+            },
+            {
+                "jp": "皆さん",
+                "uzb": "xonimlar va janoblar"
+            },
+            {
+                "jp": "思い出します",
+                "uzb": "yodga olmoq, xotirlamoq, esga tushirmoq"
+            },
+            {
+                "jp": "いらっしゃいます",
+                "uzb": "bo‘lmoq, bor (いますning hurmat shakli)"
+            }
+        ]
+    },
+    {
+        "dars": 16,
+        "so'zlar": [
+            {
+                "jp": "のります",
+                "uzb": "minmoq, chiqmoq (poyezdga chiqmoq)"
+            },
+            {
+                "jp": "おります",
+                "uzb": "tushmoq (poyezddan tushmoq)"
+            },
+            {
+                "jp": "のりかえます",
+                "uzb": "boshqa tansportga o‘tirmoq"
+            },
+            {
+                "jp": "あびます",
+                "uzb": "qabul qilmoq (dush qabul qilmoq)"
+            },
+            {
+                "jp": "いれます",
+                "uzb": "solmoq, joylamoq"
+            },
+            {
+                "jp": "だします",
+                "uzb": "chiqarmoq, olmoq (biror narsa ichidan)"
+            },
+            {
+                "jp": "おろします",
+                "uzb": "pul olmoq"
+            },
+            {
+                "jp": "はいります",
+                "uzb": "kirmoq (universitetga kirmoq)"
+            },
+            {
+                "jp": "でます",
+                "uzb": "bitirmoq, tugatmoq (universitetni bitirmoq)"
+            },
+            {
+                "jp": "おします",
+                "uzb": "bosmoq; itarmoq"
+            },
+            {
+                "jp": "のみます",
+                "uzb": "ichmoq (sakeni〜)"
+            },
+            {
+                "jp": "はじめます",
+                "uzb": "boshlamoq"
+            },
+            {
+                "jp": "けんがくします",
+                "uzb": "kuzatmoq, ko‘rmoq (o‘rganish maqsadida)"
+            },
+            {
+                "jp": "でんわします",
+                "uzb": "qo‘ng‘iroq qilmoq, telefon qilmoq"
+            },
+            {
+                "jp": "わかい",
+                "uzb": "yosh"
+            },
+            {
+                "jp": "ながい",
+                "uzb": "uzun"
+            },
+            {
+                "jp": "みじかい",
+                "uzb": "qisqa"
+            },
+            {
+                "jp": "あかるい",
+                "uzb": "yorug‘"
+            },
+            {
+                "jp": "くらい",
+                "uzb": "qorong‘u"
+            },
+            {
+                "jp": "からだ",
+                "uzb": "tana"
+            },
+            {
+                "jp": "あたま",
+                "uzb": "bosh"
+            },
+            {
+                "jp": "かみ",
+                "uzb": "soch"
+            },
+            {
+                "jp": "かお",
+                "uzb": "yuz"
+            },
+            {
+                "jp": "め",
+                "uzb": "ko‘z"
+            },
+            {
+                "jp": "みみ",
+                "uzb": "quloq"
+            },
+            {
+                "jp": "はな",
+                "uzb": "burun"
+            },
+            {
+                "jp": "くち",
+                "uzb": "og‘iz"
+            },
+            {
+                "jp": "は",
+                "uzb": "tish"
+            },
+            {
+                "jp": "おなか",
+                "uzb": "qorin"
+            },
+            {
+                "jp": "あし",
+                "uzb": "oyoq"
+            },
+            {
+                "jp": "せ",
+                "uzb": "bo‘yi"
+            },
+            {
+                "jp": "サービス",
+                "uzb": "xizmat ko‘rsatish, servis"
+            },
+            {
+                "jp": "ジョギング",
+                "uzb": "yugurish (yugurmoq)"
+            },
+            {
+                "jp": "シャワー",
+                "uzb": "dush"
+            },
+            {
+                "jp": "みどり",
+                "uzb": "yashil"
+            },
+            {
+                "jp": "[お]てら",
+                "uzb": "budda ibodatxonasi"
+            },
+            {
+                "jp": "じんじゃ",
+                "uzb": "jinjya (sintoizm: ajdodlari ruhiga e’tiqod qiluvchilar dini ibodatxonasi)"
+            },
+            {
+                "jp": "−ばん",
+                "uzb": "raqam"
+            },
+            {
+                "jp": "どうやって",
+                "uzb": "qanday qilib"
+            },
+            {
+                "jp": "どの〜",
+                "uzb": "qaysi～"
+            },
+            {
+                "jp": "どれ",
+                "uzb": "qaysi"
+            },
+            {
+                "jp": "すごいですね。",
+                "uzb": "Qoyil."
+            },
+            {
+                "jp": "[いいえ、]まだまだです。",
+                "uzb": "Hali yo‘q / Hali bo‘lgani(m)cha yo‘q."
+            },
+            {
+                "jp": "お引き出しですか。",
+                "uzb": "Hisob raqamingizdan pul olmoqchimisiz?"
+            },
+            {
+                "jp": "まず",
+                "uzb": "oldin, avvalambor"
+            },
+            {
+                "jp": "次に",
+                "uzb": "so‘ng, keyin"
+            },
+            {
+                "jp": "キャッシュカード",
+                "uzb": "bank kartasi"
+            },
+            {
+                "jp": "暗証番号",
+                "uzb": "shaxsiy maxfiy kod"
+            },
+            {
+                "jp": "⾦額",
+                "uzb": "pul summasi"
+            },
+            {
+                "jp": "確認",
+                "uzb": "tasdiq, tasdiqlamoq"
+            },
+            {
+                "jp": "ボタン",
+                "uzb": "tugmacha"
+            },
+            {
+                "jp": "ＪＲ",
+                "uzb": "Yaponiya temir yo‘llari kompaniyasi"
+            },
+            {
+                "jp": "雪祭り",
+                "uzb": "Sapporodagi qor bayrami"
+            },
+            {
+                "jp": "バンドン",
+                "uzb": "Bandung(Indoneziyadagi shahar)"
+            },
+            {
+                "jp": "フランケン",
+                "uzb": "Franken(Germaniyadagi shahar)"
+            },
+            {
+                "jp": "ベラクルス",
+                "uzb": "Verakruz(Meksikadagi shahar)"
+            }
+        ]
+    },
+    {
+        "dars": 17,
+        "so'zlar": [
+            {
+                "jp": "おぼえます",
+                "uzb": "yod olmoq"
+            },
+            {
+                "jp": "わすれます",
+                "uzb": "unutmoq, esdan chiqarmoq"
+            },
+            {
+                "jp": "なくします",
+                "uzb": "yo‘qotmoq"
+            },
+            {
+                "jp": "はらいます",
+                "uzb": "to‘lamoq"
+            },
+            {
+                "jp": "かえします",
+                "uzb": "qaytarib bermoq"
+            },
+            {
+                "jp": "でかけます",
+                "uzb": "chiqib ketmoq"
+            },
+            {
+                "jp": "ぬぎます",
+                "uzb": "yechmoq (kiyimni～)"
+            },
+            {
+                "jp": "もっていきます",
+                "uzb": "olib bormoq"
+            },
+            {
+                "jp": "もってきます",
+                "uzb": "olib kelmoq"
+            },
+            {
+                "jp": "しんぱいします",
+                "uzb": "xavotir olmoq"
+            },
+            {
+                "jp": "ざんぎょうします",
+                "uzb": "belgilangan ish vaqti tugagandan keyin qolib ishlamoq"
+            },
+            {
+                "jp": "しゅっちょうします",
+                "uzb": "xizmat safariga ketmoq"
+            },
+            {
+                "jp": "のみます[くすりを〜]",
+                "uzb": "ichmoq (dori ichmoq)"
+            },
+            {
+                "jp": "はいります[おふろに〜]",
+                "uzb": "kirmoq (hammomga kirmoq)"
+            },
+            {
+                "jp": "たいせつ[な]",
+                "uzb": "muhim"
+            },
+            {
+                "jp": "だいじょうぶ[な]",
+                "uzb": "hammasi joyida, xavotirga o‘rin yo‘q"
+            },
+            {
+                "jp": "あぶない",
+                "uzb": "xavfli"
+            },
+            {
+                "jp": "きんえん",
+                "uzb": "chekish taqiqlanadi"
+            },
+            {
+                "jp": "[けんこう]ほけんしょう",
+                "uzb": "tibbiy sug‘urta guvohnomasi"
+            },
+            {
+                "jp": "ねつ",
+                "uzb": "isitma"
+            },
+            {
+                "jp": "びょうき",
+                "uzb": "kasal, betob; kasallik"
+            },
+            {
+                "jp": "くすり",
+                "uzb": "dori"
+            },
+            {
+                "jp": "[お]ふろ",
+                "uzb": "hammom"
+            },
+            {
+                "jp": "うわぎ",
+                "uzb": "ustki kiyim"
+            },
+            {
+                "jp": "したぎ",
+                "uzb": "ichki kiyim"
+            },
+            {
+                "jp": "２、３にち",
+                "uzb": "ikki-uch kun"
+            },
+            {
+                "jp": "２、３〜",
+                "uzb": "ikki-uch (narsa, buyum)"
+            },
+            {
+                "jp": "〜までに",
+                "uzb": "～gacha"
+            },
+            {
+                "jp": "ですから",
+                "uzb": "shu sababli"
+            },
+            {
+                "jp": "どうしましたか。",
+                "uzb": "Nima bo‘ldi?"
+            },
+            {
+                "jp": "のど",
+                "uzb": "tomoq"
+            },
+            {
+                "jp": "[〜が]いたいです。",
+                "uzb": "〜im og‘riyapti"
+            },
+            {
+                "jp": "かぜ",
+                "uzb": "shamollash"
+            },
+            {
+                "jp": "それから",
+                "uzb": "yana"
+            },
+            {
+                "jp": "おだいじに。",
+                "uzb": "Sog‘ayib keting."
+            }
+        ]
+    },
+    {
+        "dars": 18,
+        "so'zlar": [
+            {
+                "jp": "できます",
+                "uzb": "qila olmoq, bajara olmoq"
+            },
+            {
+                "jp": "あらいます",
+                "uzb": "yuvmoq"
+            },
+            {
+                "jp": "ひきます",
+                "uzb": "chalmoq (musiqa asbobini～)"
+            },
+            {
+                "jp": "うたいます",
+                "uzb": "kuylamoq, qo‘shiq aytmoq"
+            },
+            {
+                "jp": "あつめます",
+                "uzb": "yig‘moq, to‘plamoq"
+            },
+            {
+                "jp": "すてます",
+                "uzb": "tashlamoq"
+            },
+            {
+                "jp": "かえます",
+                "uzb": "almashtirmoq, o‘zgartirmoq"
+            },
+            {
+                "jp": "うんてんします",
+                "uzb": "haydamoq (transport～)"
+            },
+            {
+                "jp": "よやくします",
+                "uzb": "buyurtma bermoq"
+            },
+            {
+                "jp": "ピアノ",
+                "uzb": "pianino"
+            },
+            {
+                "jp": "―メートル",
+                "uzb": "～metr"
+            },
+            {
+                "jp": "げんきん",
+                "uzb": "naqd pul"
+            },
+            {
+                "jp": "しゅみ",
+                "uzb": "qiziqish"
+            },
+            {
+                "jp": "にっき",
+                "uzb": "kundalik daftar"
+            },
+            {
+                "jp": "おいのり",
+                "uzb": "ibodat (ibodat qilmoq)"
+            },
+            {
+                "jp": "かちょう",
+                "uzb": "bo‘lim boshlig‘i"
+            },
+            {
+                "jp": "ぶちょう",
+                "uzb": "departament boshlig‘i"
+            },
+            {
+                "jp": "しゃちょう",
+                "uzb": "korxona boshlig‘i"
+            },
+            {
+                "jp": "どうぶつ",
+                "uzb": "jonivor, hayvon"
+            },
+            {
+                "jp": "うま",
+                "uzb": "ot"
+            },
+            {
+                "jp": "インターネット",
+                "uzb": "internet"
+            },
+            {
+                "jp": "とくに",
+                "uzb": "ayniqsa"
+            },
+            {
+                "jp": "へえ",
+                "uzb": "A?! (Hayratlanish hissini ifodalovchi ibora)"
+            },
+            {
+                "jp": "それは おもしろいですね。",
+                "uzb": "Qiziq-a?"
+            },
+            {
+                "jp": "なかなか",
+                "uzb": "sira, hech (inkor gapda qo‘llaniladi)"
+            },
+            {
+                "jp": "ほんとうですか。",
+                "uzb": "Rostdanmi?"
+            },
+            {
+                "jp": "ぜひ",
+                "uzb": "albatta"
+            },
+            {
+                "jp": "ふるさと",
+                "uzb": "vatan"
+            },
+            {
+                "jp": "ビートルズ",
+                "uzb": "\"Bitlz\" – mashhur ingliz musiqa guruhi"
+            },
+            {
+                "jp": "あきはばら",
+                "uzb": "Akihabara (Tokiodagi shahar nomi)"
+            }
+        ]
+    },
+    {
+        "dars": 19,
+        "so'zlar": [
+            {
+                "jp": "のぼります",
+                "uzb": "chiqmoq, ko‘tarilmoq (toqqa chiqmoq)"
+            },
+            {
+                "jp": "とまります",
+                "uzb": "tunamoq (mehmonxonada tunamoq)"
+            },
+            {
+                "jp": "そうじします",
+                "uzb": "tozalamoq"
+            },
+            {
+                "jp": "せんたくします",
+                "uzb": "kir yuvmoq"
+            },
+            {
+                "jp": "なります",
+                "uzb": "bo‘lmoq"
+            },
+            {
+                "jp": "ねむい",
+                "uzb": "uyqisiramoq"
+            },
+            {
+                "jp": "つよい",
+                "uzb": "kuchli"
+            },
+            {
+                "jp": "よわい",
+                "uzb": "kuchsiz"
+            },
+            {
+                "jp": "れんしゅう",
+                "uzb": "mashq"
+            },
+            {
+                "jp": "ゴルフ",
+                "uzb": "golf (o‘ynamoq)"
+            },
+            {
+                "jp": "すもう",
+                "uzb": "sumo kurashi"
+            },
+            {
+                "jp": "おちゃ",
+                "uzb": "choy"
+            },
+            {
+                "jp": "ひ",
+                "uzb": "kun"
+            },
+            {
+                "jp": "ちょうし",
+                "uzb": "kayfiyat, holat"
+            },
+            {
+                "jp": "いちど",
+                "uzb": "bir marta"
+            },
+            {
+                "jp": "いちども",
+                "uzb": "bir marta ham, hech, sira (inkor gapda qo‘llaniladi)"
+            },
+            {
+                "jp": "だんだん",
+                "uzb": "asta-sekin, tobora"
+            },
+            {
+                "jp": "もうすぐ",
+                "uzb": "tez orada"
+            },
+            {
+                "jp": "おかげさまで",
+                "uzb": "sizni sharofatingiz bilan"
+            },
+            {
+                "jp": "でも",
+                "uzb": "lekin, biroq, ammo"
+            },
+            {
+                "jp": "かんぱい",
+                "uzb": "Qani oldik"
+            },
+            {
+                "jp": "ダイエット",
+                "uzb": "parhez (parhez qilmoq)"
+            },
+            {
+                "jp": "むり[な]",
+                "uzb": "imkoni yo‘q (narsa), ilojsiz(narsa)"
+            },
+            {
+                "jp": "からだに いい",
+                "uzb": "sog‘liqqa foyda"
+            },
+            {
+                "jp": "とうきょうスカイツリー",
+                "uzb": "Tokio sky tri (Tokiodagi baland minora nomi)"
+            },
+            {
+                "jp": "かつしか ほくさい",
+                "uzb": "Katsushika Hokusay (1760-1849), Edo davrining yetuk rassomi"
+            }
+        ]
+    },
+    {
+        "dars": 20,
+        "so'zlar": [
+            {
+                "jp": "いります[ビザが〜]",
+                "uzb": "kerak bo‘lmoq, zarur bo‘lmoq (viza kerak)"
+            },
+            {
+                "jp": "しらべます",
+                "uzb": "tekshirmoq, qarab ko‘rmoq"
+            },
+            {
+                "jp": "しゅうりします",
+                "uzb": "tuzatmoq, ta’mirlamoq"
+            },
+            {
+                "jp": "ぼく",
+                "uzb": "men (わたしning og‘zaki shakli, odatda erkak kishi qo‘llaydi)"
+            },
+            {
+                "jp": "きみ",
+                "uzb": "sen (あなたning og‘zaki shakli, odatda erkak kishi qo‘llaydi)"
+            },
+            {
+                "jp": "〜くん",
+                "uzb": "〜君 (～さんning og‘zaki shakli, odatda yoshi kichik yoki mavqei yuqori bo‘lmagan erkak kishilarning ismiga qo‘shib qo‘llaniladi)"
+            },
+            {
+                "jp": "うん",
+                "uzb": "ha, mayli, xo‘p (はいning og‘zaki shakli)"
+            },
+            {
+                "jp": "ううん",
+                "uzb": "yo‘q (いいえning og‘zaki shakli)"
+            },
+            {
+                "jp": "ことば",
+                "uzb": "so‘z, til"
+            },
+            {
+                "jp": "きもの",
+                "uzb": "kimono (yapon milliy kiyimi)"
+            },
+            {
+                "jp": "ビザ",
+                "uzb": "viza"
+            },
+            {
+                "jp": "はじめ",
+                "uzb": "boshi (da)"
+            },
+            {
+                "jp": "おわり",
+                "uzb": "oxiri (da)"
+            },
+            {
+                "jp": "こっち",
+                "uzb": "bu yer, bu yoqqa (こちらning og‘zaki shakli)"
+            },
+            {
+                "jp": "そっち",
+                "uzb": "o‘sha yer, o‘sha yoqqa (そちらning og‘zaki shakli)"
+            },
+            {
+                "jp": "あっち",
+                "uzb": "u yer, u yoqqa (あちらning og‘zaki shakli)"
+            },
+            {
+                "jp": "どっち",
+                "uzb": "qayer, qayoqqa (どちらning og‘zaki shakli)"
+            },
+            {
+                "jp": "みんなで",
+                "uzb": "hammamiz birga"
+            },
+            {
+                "jp": "〜けど",
+                "uzb": "〜u / yu, ～.; ～, lekin, ～. (がning og‘zaki shakli)"
+            },
+            {
+                "jp": "おなかが いっぱいです",
+                "uzb": "Qorin to‘ydi. Qorin to‘q."
+            },
+            {
+                "jp": "よかったら",
+                "uzb": "Mumkin bo‘lsa～． Lozim topsangiz～."
+            },
+            {
+                "jp": "いろいろ",
+                "uzb": "turli, har xil (bu yerda 'ravish' bo‘lib kelgan. いろいろ 10-darsda 'sifat' bo‘lib kelgan)"
+            }
+        ]
+    },
+    {
+        "dars": 21,
+        "so'zlar": [
+            {
+                "jp": "おもいます",
+                "uzb": "o‘ylamoq, fikrlamoq"
+            },
+            {
+                "jp": "いいます",
+                "uzb": "demoq, aytmoq"
+            },
+            {
+                "jp": "かちます",
+                "uzb": "g‘olib bo‘lmoq, yutmoq"
+            },
+            {
+                "jp": "まけます",
+                "uzb": "mag‘lub bo‘lmoq, yutqazmoq"
+            },
+            {
+                "jp": "あります［おまつりが〜］",
+                "uzb": "bor bo‘lmoq (bayram bor, bayram bo‘lmoq)"
+            },
+            {
+                "jp": "やくに たちます",
+                "uzb": "nafi tegmoq, foydasi bo‘lmoq"
+            },
+            {
+                "jp": "うごきます",
+                "uzb": "harakatlanmoq, yurmoq"
+            },
+            {
+                "jp": "やめます［かいしゃを〜］",
+                "uzb": "ketmoq, tashlamoq (korxonadan ketmoq)"
+            },
+            {
+                "jp": "きを つけます",
+                "uzb": "ehtiyot bo‘lmoq"
+            },
+            {
+                "jp": "りゅうがくします",
+                "uzb": "chet elda ta’lim olmoq"
+            },
+            {
+                "jp": "むだ［な］",
+                "uzb": "befoyda, bekorchi (narsa, buyum)"
+            },
+            {
+                "jp": "ふべん［な］",
+                "uzb": "noqulay (sharoit)"
+            },
+            {
+                "jp": "すごい",
+                "uzb": "zo‘r, ajoyib (qoyil qolgan holatda, ham ijobiy, ham salbiy ma’noda keladi)"
+            },
+            {
+                "jp": "ほんとう",
+                "uzb": "haqiqat"
+            },
+            {
+                "jp": "うそ",
+                "uzb": "yolg‘on"
+            },
+            {
+                "jp": "じどうしゃ",
+                "uzb": "avtomobil, mashina"
+            },
+            {
+                "jp": "こうつう",
+                "uzb": "transport qatnovi"
+            },
+            {
+                "jp": "ぶっか",
+                "uzb": "narx-navo"
+            },
+            {
+                "jp": "ほうそう",
+                "uzb": "teleuzatuv"
+            },
+            {
+                "jp": "ニュース",
+                "uzb": "yangilik"
+            },
+            {
+                "jp": "アニメ",
+                "uzb": "anime"
+            },
+            {
+                "jp": "マンガ",
+                "uzb": "multfilm; komiks"
+            },
+            {
+                "jp": "デザイン",
+                "uzb": "dizayn"
+            },
+            {
+                "jp": "ゆめ",
+                "uzb": "orzu"
+            },
+            {
+                "jp": "てんさい",
+                "uzb": "daho"
+            },
+            {
+                "jp": "しあい",
+                "uzb": "musobaqa"
+            },
+            {
+                "jp": "いけん",
+                "uzb": "fikr"
+            },
+            {
+                "jp": "はなし",
+                "uzb": "gap, suhbat (～をします: suhbatlashmoq)"
+            },
+            {
+                "jp": "ちきゅう",
+                "uzb": "yer shari"
+            },
+            {
+                "jp": "つき",
+                "uzb": "oy"
+            },
+            {
+                "jp": "さいきん",
+                "uzb": "shu kunlarda"
+            },
+            {
+                "jp": "たぶん",
+                "uzb": "balki"
+            },
+            {
+                "jp": "きっと",
+                "uzb": "shubhasiz"
+            },
+            {
+                "jp": "ほんとうに",
+                "uzb": "haqiqatan"
+            },
+            {
+                "jp": "そんなに",
+                "uzb": "unchalik"
+            },
+            {
+                "jp": "〜に ついて",
+                "uzb": "～ haqida"
+            },
+            {
+                "jp": "ひさしぶりですね。",
+                "uzb": "anchadan beri, endi ～(fe’l)"
+            },
+            {
+                "jp": "〜でも のみませんか。",
+                "uzb": "〜でも ichmaymizmi?"
+            },
+            {
+                "jp": "もちろん",
+                "uzb": "albatta"
+            },
+            {
+                "jp": "もう かえらないと……。",
+                "uzb": "Yana uyga qaytishim kerak……."
+            },
+            {
+                "jp": "アインシュタイン",
+                "uzb": "Eyshteyn"
+            },
+            {
+                "jp": "ガガーリン",
+                "uzb": "Gagarin"
+            },
+            {
+                "jp": "ガリレオ",
+                "uzb": "Galileo"
+            },
+            {
+                "jp": "キングぼくし",
+                "uzb": "Hazrati oliylari, shoh"
+            },
+            {
+                "jp": "フランクリン",
+                "uzb": "Franklin"
+            },
+            {
+                "jp": "かぐやひめ かぐや姫",
+                "uzb": "Kaguyahime (yapon ertagi nomi)"
+            },
+            {
+                "jp": "てんじんまつり",
+                "uzb": "Bayram nomi"
+            },
+            {
+                "jp": "よしのやま",
+                "uzb": "Yoshino tog‘i"
+            },
+            {
+                "jp": "カンガルー",
+                "uzb": "kengiru"
+            },
+            {
+                "jp": "キャプテン・クック",
+                "uzb": "Kapitan Djeyms Kuk (1728-1779)"
+            },
+            {
+                "jp": "ヨーネン",
+                "uzb": "sport kompaniyasi nomi (o‘ylab topilgan)"
+            }
+        ]
+    },
+    {
+        "dars": 22,
+        "so'zlar": [
+            {
+                "jp": "きます",
+                "uzb": "kiymoq (beldan yuqoriga qo‘llaniladi)"
+            },
+            {
+                "jp": "はきます",
+                "uzb": "kiymoq (beldan pastda qo‘llaniladi)"
+            },
+            {
+                "jp": "かぶります",
+                "uzb": "kiymoq (boshga qo‘llaniladi)"
+            },
+            {
+                "jp": "かけます［めがねを〜］",
+                "uzb": "taqmoq (ko‘zoynak taqmoq)"
+            },
+            {
+                "jp": "します［ネクタイを〜］",
+                "uzb": "taqmoq (bo‘yinbog‘ taqmoq)"
+            },
+            {
+                "jp": "うまれます",
+                "uzb": "tug‘ilmoq, dunyoga kelmoq"
+            },
+            {
+                "jp": "わたしたち",
+                "uzb": "biz"
+            },
+            {
+                "jp": "コート",
+                "uzb": "palto"
+            },
+            {
+                "jp": "セーター",
+                "uzb": "sviter"
+            },
+            {
+                "jp": "スーツ",
+                "uzb": "kostum-shim"
+            },
+            {
+                "jp": "ぼうし",
+                "uzb": "bosh kiyim"
+            },
+            {
+                "jp": "めがね",
+                "uzb": "ko‘zoynak"
+            },
+            {
+                "jp": "ケーキ",
+                "uzb": "tort"
+            },
+            {
+                "jp": "[お]べんとう",
+                "uzb": "\"Obento\"- o‘zi bilan olib kelinadigan ovqat"
+            },
+            {
+                "jp": "ロボット",
+                "uzb": "robot"
+            },
+            {
+                "jp": "ユーモア",
+                "uzb": "hajv, yumor"
+            },
+            {
+                "jp": "つごう",
+                "uzb": "holat"
+            },
+            {
+                "jp": "よく",
+                "uzb": "tez-tez, rosa"
+            },
+            {
+                "jp": "えーと",
+                "uzb": "Anu"
+            },
+            {
+                "jp": "おめでとう[ございます]",
+                "uzb": "Tabriklayman."
+            },
+            {
+                "jp": "おさがしですか。",
+                "uzb": "Qidiryapsizmi?"
+            },
+            {
+                "jp": "では",
+                "uzb": "Unday bo‘lsa"
+            },
+            {
+                "jp": "こちら",
+                "uzb": "bu (これ ning hurmat shakli)"
+            },
+            {
+                "jp": "やちん",
+                "uzb": "uyning ijara haqi"
+            },
+            {
+                "jp": "ダイニングキッチン",
+                "uzb": "oshxona"
+            },
+            {
+                "jp": "わしつ",
+                "uzb": "yaponcha xona"
+            },
+            {
+                "jp": "おしいれ",
+                "uzb": "taxmon (ko‘rpa-to‘shak qo‘yadigan maxsus joy)"
+            },
+            {
+                "jp": "ふとん",
+                "uzb": "ko‘rpa"
+            },
+            {
+                "jp": "パリ",
+                "uzb": "Parij"
+            },
+            {
+                "jp": "ばんりのちょうじょう",
+                "uzb": "Buyuk Xitoy devori"
+            }
+        ]
+    },
+    {
+        "dars": 23,
+        "so'zlar": [
+            {
+                "jp": "ききます[せんせいに〜]",
+                "uzb": "so‘ramoq (o‘qituvchidan so‘ramoq)"
+            },
+            {
+                "jp": "まわします",
+                "uzb": "aylantirmoq"
+            },
+            {
+                "jp": "ひきます",
+                "uzb": "tortmoq"
+            },
+            {
+                "jp": "かえます",
+                "uzb": "o‘zgartirmoq"
+            },
+            {
+                "jp": "さわります[ドアに〜]",
+                "uzb": "tegmoq (eshikka tegmoq)"
+            },
+            {
+                "jp": "でます[おつりが〜]",
+                "uzb": "qaytmoq, chiqmoq (qaytim qaytmoq)"
+            },
+            {
+                "jp": "あるきます",
+                "uzb": "piyoda yurmoq (ko‘chada piyoda yurmoq)"
+            },
+            {
+                "jp": "わたります[はしを〜]",
+                "uzb": "o‘tmoq; kesib o‘tmoq (ko‘prikdan o‘tmoq)"
+            },
+            {
+                "jp": "まがります[みぎへ〜]",
+                "uzb": "burilmoq, qayrilmoq (o‘ngga qayrilmoq)"
+            },
+            {
+                "jp": "さびしい",
+                "uzb": "ma’yus, xafa"
+            },
+            {
+                "jp": "[お]ゆ",
+                "uzb": "issiq suv"
+            },
+            {
+                "jp": "おと",
+                "uzb": "tovush"
+            },
+            {
+                "jp": "サイズ",
+                "uzb": "o‘lcham, hajm"
+            },
+            {
+                "jp": "こしょう",
+                "uzb": "buzulish, nosozlik (～します: buzilmoq)"
+            },
+            {
+                "jp": "みち",
+                "uzb": "ko‘cha, yo‘l"
+            },
+            {
+                "jp": "こうさてん",
+                "uzb": "chorraha"
+            },
+            {
+                "jp": "しんごう",
+                "uzb": "svetofor"
+            },
+            {
+                "jp": "かど",
+                "uzb": "muyulish, burulish"
+            },
+            {
+                "jp": "はし",
+                "uzb": "ko‘prik"
+            },
+            {
+                "jp": "ちゅうしゃじょう",
+                "uzb": "avto ulovlar to‘xtash joyi"
+            },
+            {
+                "jp": "たてもの",
+                "uzb": "bino"
+            },
+            {
+                "jp": "なんかいも",
+                "uzb": "bir necha marotaba"
+            },
+            {
+                "jp": "−め",
+                "uzb": "−(i)nchi"
+            },
+            {
+                "jp": "しょうとくたいし",
+                "uzb": "shahzoda Shotoku (574-622)"
+            },
+            {
+                "jp": "ほうりゅうじ",
+                "uzb": "Horyuji-Naraviloyatidagi ibodatxona. U VII asr boshida shahzoda Shotoku tomonidan qurdirilgan."
+            }
+        ]
+    },
+    {
+        "dars": 24,
+        "so'zlar": [
+            {
+                "jp": "くれます",
+                "uzb": "bermoq (menga bermoq)"
+            },
+            {
+                "jp": "なおします",
+                "uzb": "to‘g‘irlamoq, tuzatmoq"
+            },
+            {
+                "jp": "つれて いきます",
+                "uzb": "olib bormoq (jonli narsani olib bormoq)"
+            },
+            {
+                "jp": "つれて きます",
+                "uzb": "olib kelmoq (jonli narsani olib kelmoq)"
+            },
+            {
+                "jp": "おくります[ひとを〜]",
+                "uzb": "jo‘natmoq; olib borib qo‘ymoq (odamni olib borib qo‘ymoq)"
+            },
+            {
+                "jp": "しょうかいします",
+                "uzb": "tanishtirmoq"
+            },
+            {
+                "jp": "あんないします",
+                "uzb": "yo‘l ko‘rsatmoq; tanishtirmoq, ko‘rsatmoq (joyni tanishtirmoq)"
+            },
+            {
+                "jp": "せつめいします",
+                "uzb": "tushuntirmoq, izoh bermoq"
+            },
+            {
+                "jp": "おじいさん／おじいちゃん",
+                "uzb": "buva / buvajon"
+            },
+            {
+                "jp": "おばあさん／おばあちゃん",
+                "uzb": "buvi / buvijon"
+            },
+            {
+                "jp": "じゅんび",
+                "uzb": "tayyorgarlik (～をします: tayyorgarlik qilmoq)"
+            },
+            {
+                "jp": "ひっこし",
+                "uzb": "ko‘chish"
+            },
+            {
+                "jp": "[お]かし",
+                "uzb": "shirinlik"
+            },
+            {
+                "jp": "ホームステイ",
+                "uzb": "homstey (birovni uyida vaqtinchalik turmoq)"
+            },
+            {
+                "jp": "ぜんぶ",
+                "uzb": "hammasi"
+            },
+            {
+                "jp": "じぶんで",
+                "uzb": "o‘zi（～m，～ng)"
+            },
+            {
+                "jp": "ほかに",
+                "uzb": "undan boshqa, boshqa"
+            },
+            {
+                "jp": "ははのひ",
+                "uzb": "Onalar kuni"
+            }
+        ]
+    },
+    {
+        "dars": 25,
+        "so'zlar": [
+            {
+                "jp": "かんがえます",
+                "uzb": "fikrlamoq"
+            },
+            {
+                "jp": "つきます",
+                "uzb": "yetib bormoq / kelmoq, qo‘nmoq (samolyot), kelib / borib tushmoq"
+            },
+            {
+                "jp": "とります[としを〜]",
+                "uzb": "ulg‘aymoq; qarimoq (ulg‘aymoq;qarimoq)"
+            },
+            {
+                "jp": "たります",
+                "uzb": "yetmoq, yetarli bo‘lmoq"
+            },
+            {
+                "jp": "いなか",
+                "uzb": "qishloq"
+            },
+            {
+                "jp": "チャンス",
+                "uzb": "imkoniyat"
+            },
+            {
+                "jp": "おく",
+                "uzb": "yuz million"
+            },
+            {
+                "jp": "もし[〜たら]",
+                "uzb": "agar（～sam，～sang，～ sa)"
+            },
+            {
+                "jp": "いみ",
+                "uzb": "ma’no"
+            },
+            {
+                "jp": "もしもし",
+                "uzb": "allo, eshitaman"
+            },
+            {
+                "jp": "てんきん",
+                "uzb": "ish yuzasidan boshqa ishga o‘tish (～をします ishni boshqa idoraga ko‘chirmoq)"
+            },
+            {
+                "jp": "こと",
+                "uzb": "ish, masala (～のこと～ning masalasi)"
+            },
+            {
+                "jp": "ひま",
+                "uzb": "bo‘sh (vaqt)"
+            },
+            {
+                "jp": "[いろいろ] おせわに なりました",
+                "uzb": "Ko‘rsatgan mehribonchiligingiz uchun rahmat. / Bergan tuzingizga rozi bo‘ling."
+            },
+            {
+                "jp": "がんばります",
+                "uzb": "harakat qilmoq, tirishmoq"
+            },
+            {
+                "jp": "どうぞ おげんきで",
+                "uzb": "Salomat bo‘ling. (bir-biridan uzoq muddatda uzoqlashish oldidan xayrlashuv chog‘ida qo‘llaniladigan ibora)"
+            },
+            {
+                "jp": "ベトナム",
+                "uzb": "Vetnam"
+            }
+        ]
+    }  
+]
