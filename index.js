@@ -61,7 +61,11 @@ async function updateResults(word, fileUrls) {
 }
 
 // Пример использования
-const fileUrls = ["/data/new-kanji.json", "data/vocabularyN4.json", "data/vocabularyN5.json"]; // Укажите пути к файлам
+const fileUrls = [
+    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/new-kanji.json",
+    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN4.json",
+    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN5.json"
+]; // Укажите пути к файлам
 
 // Функция для сохранения темы
 function saveThemePreference(isDark) {
