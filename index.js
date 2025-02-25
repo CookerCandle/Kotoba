@@ -1,3 +1,12 @@
+// Подключение библиотеки WanaKana через CDN
+const script = document.createElement("script");
+script.src = "https://unpkg.com/wanakana";
+document.head.appendChild(script);
+
+script.onload = () => {
+    console.log("WanaKana загружен");
+};
+
 async function loadJSONFiles(fileUrls) {
     const promises = fileUrls.map(async url => {
         try {
@@ -17,13 +26,14 @@ async function searchWord(word, fileUrls) {
     const jsonData = await loadJSONFiles(fileUrls);
     let results = [];
     const lowerCaseWord = word.toLowerCase();
+    const kanaWord = window.wanakana ? wanakana.toHiragana(lowerCaseWord) : lowerCaseWord;
 
     jsonData.forEach(({ url, data }) => {
         data.forEach(entry => {
             entry["so'zlar"].forEach(soz => {
                 if (
-                    (soz.jp && soz.jp.toLowerCase().includes(lowerCaseWord)) ||
-                    (soz.kana && soz.kana.toLowerCase().includes(lowerCaseWord)) ||
+                    (soz.jp && (soz.jp.toLowerCase().includes(lowerCaseWord) || soz.jp.includes(kanaWord))) ||
+                    (soz.kana && (soz.kana.toLowerCase().includes(lowerCaseWord) || soz.kana.includes(kanaWord))) ||
                     (soz.uzb && soz.uzb.toLowerCase().includes(lowerCaseWord))
                 ) {
                     results.push({
@@ -60,19 +70,16 @@ async function updateResults(word, fileUrls) {
     });
 }
 
-// Пример использования
 const fileUrls = [
     "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/new-kanji.json",
     "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN4.json",
-    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN5.json"
-]; // Укажите пути к файлам
+    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN5.json"  
+];
 
-// Функция для сохранения темы
 function saveThemePreference(isDark) {
     localStorage.setItem("theme", isDark ? "dark" : "light");
 }
 
-// Функция для загрузки темы
 function loadThemePreference() {
     const savedTheme = localStorage.getItem("theme");
     if (savedTheme === "dark") {
@@ -80,7 +87,6 @@ function loadThemePreference() {
     }
 }
 
-// Создание интерфейса
 const container = document.createElement("div");
 container.className = "container";
 document.body.appendChild(container);
@@ -96,6 +102,7 @@ container.appendChild(toggleThemeButton);
 
 const input = document.createElement("input");
 input.type = "text";
+input.id = "search-input";
 input.placeholder = "Введите слово";
 input.className = "search-input";
 container.appendChild(input);
@@ -111,7 +118,7 @@ input.addEventListener("input", () => {
 
 // Добавление стилей
 const style = document.createElement("style");
-style.textContent = null
+style.textContent = null;
 document.head.appendChild(style);
 
 // Загрузка сохранённой темы при старте
