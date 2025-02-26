@@ -50,6 +50,11 @@ async function searchWord(word, fileUrls) {
     return results;
 }
 
+function highlightText(text, searchWords) {
+    const regex = new RegExp(`(${searchWords.join('|')})`, 'gi');
+    return text.replace(regex, '<mark>$1</mark>');
+}
+
 async function updateResults(word, fileUrls) {
     const results = await searchWord(word, fileUrls);
     console.clear();
@@ -58,13 +63,23 @@ async function updateResults(word, fileUrls) {
     const resultsContainer = document.getElementById("results");
     resultsContainer.innerHTML = "";
 
+    // Преобразуем введенное слово в хирагану
+    const kanaWord = window.wanakana ? wanakana.toHiragana(word) : word;
+    const searchWords = [word.toLowerCase(), kanaWord]; // Массив для поиска
+
     results.forEach(result => {
         const div = document.createElement("div");
         div.className = "result-item";
+
+        // Подсветка для каждого поля
+        const highlightedWord = highlightText(result.word, searchWords);
+        const highlightedKana = result.kana ? highlightText(result.kana, searchWords) : null;
+        const highlightedTranslation = highlightText(result.translation, searchWords);
+
         if (result.kana) {
-            div.textContent = `Kanji ${result.kanji}: ${result.word} (${result.kana}) - ${result.translation}`;
+            div.innerHTML = `Kanji ${result.kanji}: ${highlightedWord} (${highlightedKana}) - ${highlightedTranslation}`;
         } else {
-            div.textContent = `Dars ${result.kanji}: ${result.word} - ${result.translation}`;
+            div.innerHTML = `Dars ${result.kanji}: ${highlightedWord} - ${highlightedTranslation}`;
         }
         resultsContainer.appendChild(div);
     });

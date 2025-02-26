@@ -53,3 +53,11 @@ body {
 .dark-theme .theme-toggle:hover {
     background-color: #666;
 }
+mark {
+    background-color: yellow;
+    color: black;
+}
+.dark-theme mark {
+    background-color: #ffeb3b;
+    color: black;
+}
