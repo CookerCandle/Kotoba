@@ -88,7 +88,8 @@ async function updateResults(word, fileUrls) {
 const fileUrls = [
     "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/new-kanji.json",
     "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN4.json",
-    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN5.json"  
+    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/vocabularyN5.json",
+    "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/N3_words.json",
 ];
 
 function saveThemePreference(isDark) {
