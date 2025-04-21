@@ -197,171 +197,366 @@
     {
         "dars": "2 N3",
         "so'zlar": [
-          {
-              "kana": "咲く",
-              "jp": "さく",
-              "uzb": "gullamoq"
-          },
-          {
-              "kana": "普通",
-              "jp": "ふつう",
-              "uzb": "doimiy, odatiy"
-          },
-          {
-              "kana": "借金",
-              "jp": "しゃっきん",
-              "uzb": "qarz"
-          },
-          {
-              "kana": "残る",
-              "jp": "のこる",
-              "uzb": "qolmoq, ortib qolmoq"
-          },
-          {
-              "kana": "胃",
-              "jp": "い",
-              "uzb": "oshqozon"
-          },
-          {
-              "kana": "帰宅",
-              "jp": "きたく",
-              "uzb": "uyga qaytmoq"
-          },
-          {
-              "kana": "乱暴な",
-              "jp": "らんぼうな",
-              "uzb": "qo’pol"
-          },
-          {
-              "kana": "登場",
-              "jp": "とうじょう",
-              "uzb": "chiqmoq"
-          },
-          {
-              "kana": "自由",
-              "jp": "じゆう",
-              "uzb": "erkin"
-          },
-          {
-              "kana": "感動する",
-              "jp": "かんどうする",
-              "uzb": "ta’sirlanmoq"
-          },
-          {
-              "kana": "逃げる",
-              "jp": "にげる",
-              "uzb": "qochmoq"
-          },
-          {
-              "kana": "求める",
-              "jp": "もとめる",
-              "uzb": "talab qilmoq"
-          },
-          {
-              "kana": "複雑",
-              "jp": "ふくざつ",
-              "uzb": "murakkab"
-          },
-          {
-              "kana": "文句",
-              "jp": "もんく",
-              "uzb": "nolish, arz"
-          },
-          {
-              "kana": "アナウンス",
-              "jp": "アナウンス",
-              "uzb": "e’lon, xabar"
-          },
-          {
-              "kana": "利用する",
-              "jp": "りようする",
-              "uzb": "foydalanmoq"
-          },
-          {
-              "kana": "決意",
-              "jp": "けつい",
-              "uzb": "qaror qaror qilmoq"
-          },
-          {
-              "kana": "叩く",
-              "jp": "たたく",
-              "uzb": "urib qo’yish, qoqib qo’yish"
-          },
-          {
-              "kana": "同様",
-              "jp": "どうよう",
-              "uzb": "o’xshash, bir xilda, kabi"
-          },
-          {
-              "kana": "贈る",
-              "jp": "おくる",
-              "uzb": "sovg’a qilmoq"
-          },
-          {
-              "kana": "カーブ",
-              "jp": "カーブ",
-              "uzb": "egri, chiziq, burulish"
-          },
-          {
-              "kana": "手続き",
-              "jp": "てつづき",
-              "uzb": "jarayaon"
-          },
-          {
-              "kana": "我慢",
-              "jp": "がまん",
-              "uzb": "sabr, matonat"
-          },
-          {
-              "kana": "戦争",
-              "jp": "せんそう",
-              "uzb": "urush"
-          },
-          {
-              "kana": "頑固な",
-              "jp": "がんこな",
-              "uzb": "qaysar, o’jar, o’zini gapini ma’qullaydigan"
-          },
-          {
-              "kana": "眺める",
-              "jp": "ながめる",
-              "uzb": "kuzatmoq, tomosha qilmoq"
-          },
-          {
-              "kana": "時間にだらしない",
-              "jp": "じかんにだらしない",
-              "uzb": "vaqtga betartib, o’z vaqtida qilmaydigan"
-          },
-          {
-              "kana": "ふわふわする",
-              "jp": "ふわふわする",
-              "uzb": "taqlid, so’z bo’lib yumshoq narsalarga nisbatan qo’llaniladi"
-          },
-          {
-              "kana": "思い出す",
-              "jp": "おもいだす",
-              "uzb": "eslamoq"
-          },
-          {
-              "kana": "込める",
-              "jp": "こめる",
-              "uzb": "qamrab olmoq"
-          },
-          {
-              "kana": "ルート",
-              "jp": "ルート",
-              "uzb": "Yo’l, yo’nalish"
-          },
-          {
-              "kana": "得意",
-              "jp": "とくい",
-              "uzb": "mohir, usta"
-          },
-          {
-              "kana": "うらやましい",
-              "jp": "うらやましい",
-              "uzb": "havas, qiladigan"
-          }
-      ]
+            {
+                "kana": "咲く",
+                "jp": "さく",
+                "uzb": "gullamoq"
+            },
+            {
+                "kana": "普通",
+                "jp": "ふつう",
+                "uzb": "doimiy, odatiy"
+            },
+            {
+                "kana": "借金",
+                "jp": "しゃっきん",
+                "uzb": "qarz"
+            },
+            {
+                "kana": "残る",
+                "jp": "のこる",
+                "uzb": "qolmoq, ortib qolmoq"
+            },
+            {
+                "kana": "胃",
+                "jp": "い",
+                "uzb": "oshqozon"
+            },
+            {
+                "kana": "帰宅",
+                "jp": "きたく",
+                "uzb": "uyga qaytmoq"
+            },
+            {
+                "kana": "乱暴な",
+                "jp": "らんぼうな",
+                "uzb": "qo’pol"
+            },
+            {
+                "kana": "登場",
+                "jp": "とうじょう",
+                "uzb": "chiqmoq"
+            },
+            {
+                "kana": "自由",
+                "jp": "じゆう",
+                "uzb": "erkin"
+            },
+            {
+                "kana": "感動する",
+                "jp": "かんどうする",
+                "uzb": "ta’sirlanmoq"
+            },
+            {
+                "kana": "逃げる",
+                "jp": "にげる",
+                "uzb": "qochmoq"
+            },
+            {
+                "kana": "求める",
+                "jp": "もとめる",
+                "uzb": "talab qilmoq"
+            },
+            {
+                "kana": "複雑",
+                "jp": "ふくざつ",
+                "uzb": "murakkab"
+            },
+            {
+                "kana": "文句",
+                "jp": "もんく",
+                "uzb": "nolish, arz"
+            },
+            {
+                "kana": "アナウンス",
+                "jp": "アナウンス",
+                "uzb": "e’lon, xabar"
+            },
+            {
+                "kana": "利用する",
+                "jp": "りようする",
+                "uzb": "foydalanmoq"
+            },
+            {
+                "kana": "決意",
+                "jp": "けつい",
+                "uzb": "qaror qaror qilmoq"
+            },
+            {
+                "kana": "叩く",
+                "jp": "たたく",
+                "uzb": "urib qo’yish, qoqib qo’yish"
+            },
+            {
+                "kana": "同様",
+                "jp": "どうよう",
+                "uzb": "o’xshash, bir xilda, kabi"
+            },
+            {
+                "kana": "贈る",
+                "jp": "おくる",
+                "uzb": "sovg’a qilmoq"
+            },
+            {
+                "kana": "カーブ",
+                "jp": "カーブ",
+                "uzb": "egri, chiziq, burulish"
+            },
+            {
+                "kana": "手続き",
+                "jp": "てつづき",
+                "uzb": "jarayaon"
+            },
+            {
+                "kana": "我慢",
+                "jp": "がまん",
+                "uzb": "sabr, matonat"
+            },
+            {
+                "kana": "戦争",
+                "jp": "せんそう",
+                "uzb": "urush"
+            },
+            {
+                "kana": "頑固な",
+                "jp": "がんこな",
+                "uzb": "qaysar, o’jar, o’zini gapini ma’qullaydigan"
+            },
+            {
+                "kana": "眺める",
+                "jp": "ながめる",
+                "uzb": "kuzatmoq, tomosha qilmoq"
+            },
+            {
+                "kana": "時間にだらしない",
+                "jp": "じかんにだらしない",
+                "uzb": "vaqtga betartib, o’z vaqtida qilmaydigan"
+            },
+            {
+                "kana": "ふわふわする",
+                "jp": "ふわふわする",
+                "uzb": "taqlid, so’z bo’lib yumshoq narsalarga nisbatan qo’llaniladi"
+            },
+            {
+                "kana": "思い出す",
+                "jp": "おもいだす",
+                "uzb": "eslamoq"
+            },
+            {
+                "kana": "込める",
+                "jp": "こめる",
+                "uzb": "qamrab olmoq"
+            },
+            {
+                "kana": "ルート",
+                "jp": "ルート",
+                "uzb": "Yo’l, yo’nalish"
+            },
+            {
+                "kana": "得意",
+                "jp": "とくい",
+                "uzb": "mohir, usta"
+            },
+            {
+                "kana": "うらやましい",
+                "jp": "うらやましい",
+                "uzb": "havas, qiladigan"
+            }
+        ]
+    },
+    {
+        "dars": "3 N3",
+        "so'zlar": [
+            {
+                "kana": "散る",
+                "jp": "ちる",
+                "uzb": "To’kilmoq"
+            },
+            {
+                "kana": "満足",
+                "jp": "まんぞく",
+                "uzb": "Qoniqmoq"
+            },
+            {
+                "kana": "急行",
+                "jp": "きゅうこう",
+                "uzb": "Express"
+            },
+            {
+                "kana": "意識",
+                "jp": "いしき",
+                "uzb": "Ong"
+            },
+            {
+                "kana": "差",
+                "jp": "さ",
+                "uzb": "Farq"
+            },
+            {
+                "kana": "広告",
+                "jp": "こうこく",
+                "uzb": "Reklama"
+            },
+            {
+                "kana": "汗",
+                "jp": "あせ",
+                "uzb": "Ter"
+            },
+            {
+                "kana": "禁止",
+                "jp": "きんし",
+                "uzb": "Ta’qiq"
+            },
+            {
+                "kana": "豊富",
+                "jp": "ほうふ",
+                "uzb": "Mo’l-ko’llik, boy"
+            },
+            {
+                "kana": "暗記",
+                "jp": "あんき",
+                "uzb": "Yodlamoq"
+            },
+            {
+                "kana": "備える",
+                "jp": "そなえる",
+                "uzb": "Tayyorlanmoq"
+            },
+            {
+                "kana": "失う",
+                "jp": "うしなう",
+                "uzb": "Yo’qotmoq"
+            },
+            {
+                "kana": "興味",
+                "jp": "きょうみ",
+                "uzb": "Qiziqish"
+            },
+            {
+                "kana": "夫婦",
+                "jp": "ふうふ",
+                "uzb": "Er-xotin"
+            },
+            {
+                "kana": "ホームステイ",
+                "jp": "ホームステイ",
+                "uzb": "Homestay (kimningdir uyida ma’lum vaqt yashab turish)"
+            },
+            {
+                "kana": "乾燥",
+                "jp": "かんそう",
+                "uzb": "Quruq"
+            },
+            {
+                "kana": "吹く",
+                "jp": "ふく",
+                "uzb": "esmoq"
+            },
+            {
+                "kana": "稼ぐ",
+                "jp": "かせぐ",
+                "uzb": "Ishlab topmoq"
+            },
+            {
+                "kana": "本音",
+                "jp": "ほんね",
+                "uzb": "Asl niyat"
+            },
+            {
+                "kana": "ぴかぴか",
+                "jp": "ぴかぴか",
+                "uzb": "yaltiroq"
+            },
+            {
+                "kana": "コメント",
+                "jp": "コメント",
+                "uzb": "Sharh, komment"
+            },
+            {
+                "kana": "手入れ",
+                "jp": "ていれ",
+                "uzb": "G’amxo’rlik"
+            },
+            {
+                "kana": "感謝",
+                "jp": "かんしゃ",
+                "uzb": "Minnatdorchilik"
+            },
+            {
+                "kana": "さっそく",
+                "jp": "さっそく",
+                "uzb": "Darhol"
+            },
+            {
+                "kana": "健康",
+                "jp": "けんこう",
+                "uzb": "Sog’liq"
+            },
+            {
+                "kana": "ネガティブ",
+                "jp": "ネガティブ",
+                "uzb": "Salbiy"
+            },
+            {
+                "kana": "繋ぐ",
+                "jp": "つなぐ",
+                "uzb": "Ulamoq, bog’lamoq"
+            },
+            {
+                "kana": "接続",
+                "jp": "せつぞく",
+                "uzb": "Bog’lamoq, ulamoq"
+            },
+            {
+                "kana": "打ち消す",
+                "jp": "うちけす",
+                "uzb": "Inkor qilmoq"
+            },
+            {
+                "kana": "否定する",
+                "jp": "ひていする",
+                "uzb": "Inkor etmoq"
+            },
+            {
+                "kana": "さっさと",
+                "jp": "さっさと",
+                "uzb": "Tez"
+            },
+            {
+                "kana": "落ち着く",
+                "jp": "おちつく",
+                "uzb": "Tinchlanmoq"
+            },
+            {
+                "kana": "冷静",
+                "jp": "れいせい",
+                "uzb": "Sokin"
+            },
+            {
+                "kana": "気に入る",
+                "jp": "きにいる",
+                "uzb": "Yoqtirmoq"
+            },
+            {
+                "kana": "混ぜる",
+                "jp": "まぜる",
+                "uzb": "Aralashtirmoq"
+            },
+            {
+                "kana": "現実",
+                "jp": "げんじつ",
+                "uzb": "Haqiqat"
+            },
+            {
+                "kana": "おかず",
+                "jp": "おかず",
+                "uzb": "Guruch bilan birga yeyiladigan qo’shimcha yegulik"
+            },
+            {
+                "kana": "できあがる",
+                "jp": "できあがる",
+                "uzb": "Tayyor bo’lmoq"
+            }
+        ]
     }
 ]
