@@ -558,5 +558,185 @@
                 "uzb": "Tayyor bo’lmoq"
             }
         ]
+    },
+    {
+        "dars": "4 N3",
+        "so'zlar": [
+            {
+                "kana": "届く",
+                "jp": "とどく",
+                "uzb": "Yetib kelmoq"
+            },
+            {
+                "kana": "適度",
+                "jp": "てきど",
+                "uzb": "O’rtacha"
+            },
+            {
+                "kana": "出張",
+                "jp": "しゅっちょう",
+                "uzb": "Xizmat safari"
+            },
+            {
+                "kana": "養う",
+                "jp": "やしなう",
+                "uzb": "Boqmoq/ovqatlantirmoq"
+            },
+            {
+                "kana": "勇気",
+                "jp": "ゆうき",
+                "uzb": "Jasorat"
+            },
+            {
+                "kana": "両替",
+                "jp": "りょうがえ",
+                "uzb": "Pul almashtirish"
+            },
+            {
+                "kana": "煙",
+                "jp": "けむり",
+                "uzb": "Tutun"
+            },
+            {
+                "kana": "停止",
+                "jp": "ていし",
+                "uzb": "To’xtatmoq"
+            },
+            {
+                "kana": "全力",
+                "jp": "ぜんりょく",
+                "uzb": "Bor kuchi"
+            },
+            {
+                "kana": "集団",
+                "jp": "しゅうだん",
+                "uzb": "Guruh"
+            },
+            {
+                "kana": "議論",
+                "jp": "ぎろん",
+                "uzb": "Muhokama"
+            },
+            {
+                "kana": "迎える",
+                "jp": "むかえる",
+                "uzb": "Kutib olmoq"
+            },
+            {
+                "kana": "予習",
+                "jp": "よしゅう",
+                "uzb": "Tayyorgarlik"
+            },
+            {
+                "kana": "手間",
+                "jp": "てま",
+                "uzb": "Vaqt va kuch"
+            },
+            {
+                "kana": "キャリア",
+                "jp": "キャリア",
+                "uzb": "Karyera"
+            },
+            {
+                "kana": "払う",
+                "jp": "はらう",
+                "uzb": "To’lamoq"
+            },
+            {
+                "kana": "増加",
+                "jp": "ぞうか",
+                "uzb": "Ko’paymoq/o’smoq"
+            },
+            {
+                "kana": "くたびれる",
+                "jp": "くたびれる",
+                "uzb": "Charchamoq"
+            },
+            {
+                "kana": "賛成する",
+                "jp": "さんせいする",
+                "uzb": "Qo’shilmoq/qo’llab quvvatlamoq"
+            },
+            {
+                "kana": "引っ越す",
+                "jp": "ひっこす",
+                "uzb": "Ko’chmoq"
+            },
+            {
+                "kana": "サービス",
+                "jp": "サービス",
+                "uzb": "Servis"
+            },
+            {
+                "kana": "見かけ",
+                "jp": "みかけ",
+                "uzb": "Tashqi ko’rinish"
+            },
+            {
+                "kana": "確認",
+                "jp": "かくにん",
+                "uzb": "Tasdiqlamoq/tekshirmoq"
+            },
+            {
+                "kana": "もうすぐ",
+                "jp": "もうすぐ",
+                "uzb": "Zudlik bilan, yaqin orada (kelajak)"
+            },
+            {
+                "kana": "器用に",
+                "jp": "きように",
+                "uzb": "Epchillik bilan"
+            },
+            {
+                "kana": "おとなしい",
+                "jp": "おとなしい",
+                "uzb": "Sokin/ og’ir vazmin (odam) - sokin vazmin"
+            },
+            {
+                "kana": "ごろごろする",
+                "jp": "ごろごろする",
+                "uzb": "Uyda hech narsa qilmasdan dam olish"
+            },
+            {
+                "kana": "いいかげんな",
+                "jp": "いいかげんな",
+                "uzb": "Ma’suliyatsiz, beparvo"
+            },
+            {
+                "kana": "職",
+                "jp": "しょく",
+                "uzb": "Ish/ kasb-hunar"
+            },
+            {
+                "kana": "もともと",
+                "jp": "もともと",
+                "uzb": "Asli/dastlab"
+            },
+            {
+                "kana": "申し込む",
+                "jp": "もうしこむ",
+                "uzb": "Ariza topshirmoq"
+            },
+            {
+                "kana": "植える",
+                "jp": "うえる",
+                "uzb": "Ekmoq"
+            },
+            {
+                "kana": "ユニーク",
+                "jp": "ユニーク",
+                "uzb": "Noyob"
+            },
+            {
+                "kana": "技術",
+                "jp": "ぎじゅつ",
+                "uzb": "Texnologiya"
+            },
+            {
+                "kana": "つらい",
+                "jp": "つらい",
+                "uzb": "Og’ir"
+            }
+        ]
     }
 ]
