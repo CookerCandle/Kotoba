@@ -1283,5 +1283,230 @@
                 "uzb": "Moda / Zarif"
             }
         ]
+    },
+    {
+        "dars": "8 N3",
+        "so'zlar": [
+            {
+                "kana": "飛びます",
+                "jp": "とびます",
+                "uzb": "Uchmoq"
+            },
+            {
+                "kana": "無料",
+                "jp": "むりょう",
+                "uzb": "Bepul"
+            },
+            {
+                "kana": "通行",
+                "jp": "つうこう",
+                "uzb": "O'tish"
+            },
+            {
+                "kana": "疲れる",
+                "jp": "つかれる",
+                "uzb": "Charchamoq"
+            },
+            {
+                "kana": "面",
+                "jp": "めん",
+                "uzb": "Tomonlari/ Jihatlari"
+            },
+            {
+                "kana": "知恵",
+                "jp": "ちえ",
+                "uzb": "Donolik"
+            },
+            {
+                "kana": "多様",
+                "jp": "たよう",
+                "uzb": "Turli-xil"
+            },
+            {
+                "kana": "到着",
+                "jp": "とうちゃく",
+                "uzb": "Yetib kelmoq"
+            },
+            {
+                "kana": "不満",
+                "jp": "ふまん",
+                "uzb": "Norozilik/qoniqmaslik"
+            },
+            {
+                "kana": "建築する",
+                "jp": "けんちくする",
+                "uzb": "Qurmoq"
+            },
+            {
+                "kana": "戻る",
+                "jp": "もどる",
+                "uzb": "Qaytmoq"
+            },
+            {
+                "kana": "認める",
+                "jp": "みとめる",
+                "uzb": "Tan olmoq/ bilib olmoq"
+            },
+            {
+                "kana": "郊外",
+                "jp": "こうがい",
+                "uzb": "Chekka hududlar"
+            },
+            {
+                "kana": "家賃",
+                "jp": "やちん",
+                "uzb": "Ijara haqqi"
+            },
+            {
+                "kana": "ストレス",
+                "jp": "ストレス",
+                "uzb": "Tushkunlik"
+            },
+            {
+                "kana": "変更する",
+                "jp": "へんこうする",
+                "uzb": "O’zgartirmoq"
+            },
+            {
+                "kana": "面接",
+                "jp": "めんせつ",
+                "uzb": "Intervyu / suhbat"
+            },
+            {
+                "kana": "潜る",
+                "jp": "もぐる",
+                "uzb": "Sho’ng’imoq"
+            },
+            {
+                "kana": "長所",
+                "jp": "ちょうしょ",
+                "uzb": "Кuchli jihat"
+            },
+            {
+                "kana": "離れる",
+                "jp": "はなれる",
+                "uzb": "Ajralmoq / uzoqlashmoq / tark etmoq"
+            },
+            {
+                "kana": "組み立てる",
+                "jp": "くみたてる",
+                "uzb": "Yig’moq"
+            },
+            {
+                "kana": "参加料",
+                "jp": "さんかりょう",
+                "uzb": "Qatnashish to’lovi"
+            },
+            {
+                "kana": "編集",
+                "jp": "へんしゅう",
+                "uzb": "Tahrirlash"
+            },
+            {
+                "kana": "観察",
+                "jp": "かんさつ",
+                "uzb": "Kuzatuv"
+            },
+            {
+                "kana": "誠実",
+                "jp": "せいじつ",
+                "uzb": "Samimiy / halol"
+            },
+            {
+                "kana": "勝手だ",
+                "jp": "かってだ",
+                "uzb": "Xudbinlik(o‘ziga xohlagancha)"
+            },
+            {
+                "kana": "わがまま",
+                "jp": "わがまま",
+                "uzb": "Egoistlik / o’zini o’ylidigan"
+            },
+            {
+                "kana": "少しも",
+                "jp": "すこしも",
+                "uzb": "Оzgina ham"
+            },
+            {
+                "kana": "全然",
+                "jp": "ぜんぜん",
+                "uzb": "Umuman"
+            },
+            {
+                "kana": "得る",
+                "jp": "える",
+                "uzb": "Olmoq/qo’lga kiritmoq"
+            },
+            {
+                "kana": "もうける",
+                "jp": "もうける",
+                "uzb": "Foyda olmoq"
+            },
+            {
+                "kana": "遠慮する",
+                "jp": "えんりょする",
+                "uzb": "Uyalmoq"
+            },
+            {
+                "kana": "どんどん",
+                "jp": "どんどん",
+                "uzb": "Ko’proq"
+            },
+            {
+                "kana": "助言",
+                "jp": "じょげん",
+                "uzb": "Maslahat"
+            },
+            {
+                "kana": "鳥",
+                "jp": "とり",
+                "uzb": "Qush"
+            },
+            {
+                "kana": "計画",
+                "jp": "けいかく",
+                "uzb": "Plan/reja"
+            },
+            {
+                "kana": "アドバイス",
+                "jp": "アドバイス",
+                "uzb": "Maslahat"
+            },
+            {
+                "kana": "試す",
+                "jp": "ためす",
+                "uzb": "Sinab ko’rmoq"
+            },
+            {
+                "kana": "アンケート",
+                "jp": "アンケート",
+                "uzb": "Аnketa/so’rovnoma"
+            },
+            {
+                "kana": "配る",
+                "jp": "くばる",
+                "uzb": "Tarqatmoq"
+            },
+            {
+                "kana": "係",
+                "jp": "かかり",
+                "uzb": "Мas’ul shaxs"
+            },
+            {
+                "kana": "挑戦",
+                "jp": "ちょうせん",
+                "uzb": "Urinib ko’rish"
+            },
+            {
+                "kana": "課題",
+                "jp": "かだい",
+                "uzb": "Topshiriq/vazifa"
+            },
+            {
+                "kana": "変化する",
+                "jp": "へんかする",
+                "uzb": "O’zgarmoq"
+            }
+        ]
     }
 ]
