@@ -1508,5 +1508,225 @@
                 "uzb": "O’zgarmoq"
             }
         ]
+    },
+    {
+        "dars": "9 N3",
+        "so'zlar": [
+            {
+                "kana": "飾る",
+                "jp": "かざる",
+                "uzb": "Bezatmoq"
+            },
+            {
+                "kana": "各自",
+                "jp": "かくじ",
+                "uzb": "Har bir inson"
+            },
+            {
+                "kana": "湖",
+                "jp": "みずうみ",
+                "uzb": "Ko‘l"
+            },
+            {
+                "kana": "鳴く",
+                "jp": "なく",
+                "uzb": "Ovoz chiqarmoq"
+            },
+            {
+                "kana": "屋上",
+                "jp": "おくじょう",
+                "uzb": "Tom"
+            },
+            {
+                "kana": "通過する",
+                "jp": "つうかする",
+                "uzb": "O‘tmoq"
+            },
+            {
+                "kana": "歯",
+                "jp": "は",
+                "uzb": "Tish"
+            },
+            {
+                "kana": "回転",
+                "jp": "かいてん",
+                "uzb": "Aylanish"
+            },
+            {
+                "kana": "規則",
+                "jp": "きそく",
+                "uzb": "Qoida"
+            },
+            {
+                "kana": "友情",
+                "jp": "ゆうじょう",
+                "uzb": "Do‘stlik"
+            },
+            {
+                "kana": "編む",
+                "jp": "あむ",
+                "uzb": "To‘qimoq"
+            },
+            {
+                "kana": "主に",
+                "jp": "おもに",
+                "uzb": "Asosan"
+            },
+            {
+                "kana": "知識",
+                "jp": "ちしき",
+                "uzb": "Bilim"
+            },
+            {
+                "kana": "世話",
+                "jp": "せわ",
+                "uzb": "G‘amxo‘rlik"
+            },
+            {
+                "kana": "チャンス",
+                "jp": "チャンス",
+                "uzb": "Imkoniyat"
+            },
+            {
+                "kana": "差別",
+                "jp": "さべつ",
+                "uzb": "Kamsitish"
+            },
+            {
+                "kana": "報告",
+                "jp": "ほうこく",
+                "uzb": "Hisobot"
+            },
+            {
+                "kana": "去る",
+                "jp": "さる",
+                "uzb": "Tark etmoq"
+            },
+            {
+                "kana": "専門家",
+                "jp": "せんもんか",
+                "uzb": "Mutaxassis"
+            },
+            {
+                "kana": "ためる",
+                "jp": "ためる",
+                "uzb": "To‘ldirmoq"
+            },
+            {
+                "kana": "ショック",
+                "jp": "ショック",
+                "uzb": "Hayratlanish"
+            },
+            {
+                "kana": "見送り",
+                "jp": "みおくり",
+                "uzb": "Kuzatib qo‘yish"
+            },
+            {
+                "kana": "挨拶",
+                "jp": "あいさつ",
+                "uzb": "Salomlashish"
+            },
+            {
+                "kana": "ぐっすり",
+                "jp": "ぐっすり",
+                "uzb": "Qattiq (uxlash)"
+            },
+            {
+                "kana": "貴重",
+                "jp": "きちょう",
+                "uzb": "Qimmatli"
+            },
+            {
+                "kana": "再会する",
+                "jp": "さいかいする",
+                "uzb": "Yana uchrashmoq"
+            },
+            {
+                "kana": "また会う",
+                "jp": "またあう",
+                "uzb": "Yana uchrashmoq"
+            },
+            {
+                "kana": "はらはらする",
+                "jp": "はらはらする",
+                "uzb": "Xavotirlanmoq"
+            },
+            {
+                "kana": "心配",
+                "jp": "しんぱい",
+                "uzb": "Xavotir"
+            },
+            {
+                "kana": "期待する",
+                "jp": "きたいする",
+                "uzb": "Kutmoq / umid qilmoq"
+            },
+            {
+                "kana": "感動する",
+                "jp": "かんどうする",
+                "uzb": "Ta’sirlanmoq"
+            },
+            {
+                "kana": "幸福",
+                "jp": "こうふく",
+                "uzb": "Baxt"
+            },
+            {
+                "kana": "席を外す",
+                "jp": "せきをはずす",
+                "uzb": "O‘rnida bo‘lmaslik"
+            },
+            {
+                "kana": "離れる",
+                "jp": "はなれる",
+                "uzb": "Tark etmoq"
+            },
+            {
+                "kana": "アクセスがいい",
+                "jp": "アクセスがいい",
+                "uzb": "Transport qatnovi yaxshi"
+            },
+            {
+                "kana": "交通が便利",
+                "jp": "こうつうがべんり",
+                "uzb": "Transportga qulay"
+            },
+            {
+                "kana": "正直",
+                "jp": "しょうじき",
+                "uzb": "Halol"
+            },
+            {
+                "kana": "うそをつかない",
+                "jp": "うそをつかない",
+                "uzb": "Yolg‘on gapirmaslik"
+            },
+            {
+                "kana": "包む",
+                "jp": "つつむ",
+                "uzb": "O‘ramoq"
+            },
+            {
+                "kana": "こぼす",
+                "jp": "こぼす",
+                "uzb": "To‘kmoq"
+            },
+            {
+                "kana": "角",
+                "jp": "かど",
+                "uzb": "Burchak"
+            },
+            {
+                "kana": "相手",
+                "jp": "あいて",
+                "uzb": "Sherik / suhbatdosh"
+            },
+            {
+                "kana": "夢中",
+                "jp": "むちゅう",
+                "uzb": "Berilib ketish"
+            }
+        ]
     }
 ]
