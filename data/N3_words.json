@@ -1728,5 +1728,205 @@
                 "uzb": "Berilib ketish"
             }
         ]
+    },
+    {
+        "dars": "10 N3",
+        "so'zlar": [
+            {
+                "kana": "盗む",
+                "jp": "ぬすむ",
+                "uzb": "O’g’irlamoq"
+            },
+            {
+                "kana": "程度",
+                "jp": "ていど",
+                "uzb": "Daraja"
+            },
+            {
+                "kana": "帰国",
+                "jp": "きこく",
+                "uzb": "Vatanga qaytish"
+            },
+            {
+                "kana": "閉じる",
+                "jp": "とじる",
+                "uzb": "Yopmoq"
+            },
+            {
+                "kana": "欲",
+                "jp": "よく",
+                "uzb": "Xohish"
+            },
+            {
+                "kana": "親友",
+                "jp": "しんゆう",
+                "uzb": "Yaqin do’st"
+            },
+            {
+                "kana": "袋",
+                "jp": "ふくろ",
+                "uzb": "Paket/xalta"
+            },
+            {
+                "kana": "移動する",
+                "jp": "いどうする",
+                "uzb": "Harakatlanmoq/ko’chmoq"
+            },
+            {
+                "kana": "順調",
+                "jp": "じゅんちょう",
+                "uzb": "Muvaffaqiyatli / yaxshi"
+            },
+            {
+                "kana": "信用",
+                "jp": "しんよう",
+                "uzb": "Ishonch"
+            },
+            {
+                "kana": "踊ります",
+                "jp": "おどります",
+                "uzb": "Raqsga tushmoq"
+            },
+            {
+                "kana": "避ける",
+                "jp": "さける",
+                "uzb": "Qochmoq"
+            },
+            {
+                "kana": "平和な",
+                "jp": "へいわな",
+                "uzb": "Tinch"
+            },
+            {
+                "kana": "試合",
+                "jp": "しあい",
+                "uzb": "O’yin / musobaqa"
+            },
+            {
+                "kana": "ターゲット",
+                "jp": "ターゲット",
+                "uzb": "Maqsad"
+            },
+            {
+                "kana": "配達",
+                "jp": "はいたつ",
+                "uzb": "Yetkazib berish"
+            },
+            {
+                "kana": "故障",
+                "jp": "こしょう",
+                "uzb": "Buzulish"
+            },
+            {
+                "kana": "冷める",
+                "jp": "さめる",
+                "uzb": "Sovimoq"
+            },
+            {
+                "kana": "共通",
+                "jp": "きょうつう",
+                "uzb": "Umumiy"
+            },
+            {
+                "kana": "解ける",
+                "jp": "とける",
+                "uzb": "Yechmoq / hal qilmoq"
+            },
+            {
+                "kana": "プラス",
+                "jp": "プラス",
+                "uzb": "Qo’shimcha"
+            },
+            {
+                "kana": "イタリア製",
+                "jp": "イタリアせい",
+                "uzb": "Italyada ishlab chiqarilgan"
+            },
+            {
+                "kana": "一致",
+                "jp": "いっち",
+                "uzb": "Mos"
+            },
+            {
+                "kana": "がっかり",
+                "jp": "がっかり",
+                "uzb": "Hafsalasi pir bo'lmoq"
+            },
+            {
+                "kana": "特別",
+                "jp": "とくべつ",
+                "uzb": "Maxsus"
+            },
+            {
+                "kana": "とんでもない",
+                "jp": "とんでもない",
+                "uzb": "Aql bovar qilmaydigan"
+            },
+            {
+                "kana": "意外な",
+                "jp": "いがいな",
+                "uzb": "Kutilmagan"
+            },
+            {
+                "kana": "散らかす",
+                "jp": "ちらかす",
+                "uzb": "Tartibsizlik qilmoq"
+            },
+            {
+                "kana": "汚くする",
+                "jp": "きたなくする",
+                "uzb": "Iflos qilmoq"
+            },
+            {
+                "kana": "振り返る",
+                "jp": "ふりかえる",
+                "uzb": "Ortga qaramoq"
+            },
+            {
+                "kana": "後ろを見る",
+                "jp": "うしろをみる",
+                "uzb": "Orqasiga qaramoq"
+            },
+            {
+                "kana": "間に合う",
+                "jp": "まにあう",
+                "uzb": "Vaqtida"
+            },
+            {
+                "kana": "十分である",
+                "jp": "じゅうぶんである",
+                "uzb": "Yetarli"
+            },
+            {
+                "kana": "慎重な",
+                "jp": "しんちょうな",
+                "uzb": "Ehtiyotkor"
+            },
+            {
+                "kana": "ほえる",
+                "jp": "ほえる",
+                "uzb": "Hurmoq"
+            },
+            {
+                "kana": "あふれる",
+                "jp": "あふれる",
+                "uzb": "Toshib ketmoq"
+            },
+            {
+                "kana": "しばる",
+                "jp": "しばる",
+                "uzb": "Bog’lamoq"
+            },
+            {
+                "kana": "得",
+                "jp": "とく",
+                "uzb": "Foyda"
+            },
+            {
+                "kana": "鋭い",
+                "jp": "するどい",
+                "uzb": "O’tkir"
+            }
+        ]
     }
 ]
