@@ -92,29 +92,9 @@ const fileUrls = [
     "https://raw.githubusercontent.com/CookerCandle/KotobaSearcher/main/data/N3_words.json",
 ];
 
-function saveThemePreference(isDark) {
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-}
-
-function loadThemePreference() {
-    const savedTheme = localStorage.getItem("theme");
-    if (savedTheme === "dark") {
-        document.body.classList.add("dark-theme");
-    }
-}
-
 const container = document.createElement("div");
 container.className = "container";
 document.body.appendChild(container);
-
-const toggleThemeButton = document.createElement("button");
-toggleThemeButton.textContent = "Переключить тему";
-toggleThemeButton.className = "theme-toggle";
-toggleThemeButton.addEventListener("click", () => {
-    document.body.classList.toggle("dark-theme");
-    saveThemePreference(document.body.classList.contains("dark-theme"));
-});
-container.appendChild(toggleThemeButton);
 
 const input = document.createElement("input");
 input.type = "text";
@@ -136,6 +116,3 @@ input.addEventListener("input", () => {
 const style = document.createElement("style");
 style.textContent = null;
 document.head.appendChild(style);
-
-// Загрузка сохранённой темы при старте
-loadThemePreference();
