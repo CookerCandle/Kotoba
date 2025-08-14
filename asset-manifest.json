@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kotoba/static/css/main.80cab414.css",
-    "main.js": "/Kotoba/static/js/main.ccf9aac0.js",
+    "main.js": "/Kotoba/static/js/main.3d246d9f.js",
     "index.html": "/Kotoba/index.html",
     "main.80cab414.css.map": "/Kotoba/static/css/main.80cab414.css.map",
-    "main.ccf9aac0.js.map": "/Kotoba/static/js/main.ccf9aac0.js.map"
+    "main.3d246d9f.js.map": "/Kotoba/static/js/main.3d246d9f.js.map"
   },
   "entrypoints": [
     "static/css/main.80cab414.css",
-    "static/js/main.ccf9aac0.js"
+    "static/js/main.3d246d9f.js"
   ]
 }
