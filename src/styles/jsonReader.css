@@ -1,0 +1,53 @@
+.drop-zone {
+    border: 2px dashed var(--border-color);
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
+    font-size: 18px;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    border-radius: 8px;
+    transition: border-color 0.3s;
+}
+
+.output {
+    margin: 20px auto;
+    width: 90%;
+    max-width: 800px;
+}
+
+.output.error {
+  color: red;
+}
+
+.output.empty {
+  color: gray;
+}
+
+.copy-button {
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  background: #007bff;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.copy-button:hover {
+  background: #0056b3;
+}
+
+.json-output {
+  text-align: left;
+  vertical-align: top;
+  background-color: var(--bg-color);
+  padding: 16px;
+  border: solid 2px var(--border-color);
+  border-radius: 6px;
+  white-space: pre-wrap;
+  max-height: 300px; /* Ограничиваем высоту */
+  overflow-y: auto; /* Добавляем вертикальный скролл */
+}

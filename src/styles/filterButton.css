@@ -1,0 +1,37 @@
+.filter-button-container {
+  position: relative;
+}
+
+.filter-button {
+  padding: 11px ;
+  background: var(--input-theme);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.filter-dropdown {
+  position: absolute;
+  top: 110%;
+  right: 0;
+  background: var(--input-theme);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  z-index: 100;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.filter-checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 6px; /* расстояние между чекбоксом и текстом */
+  margin-bottom: 5px;
+}
+
+.filter-icon {
+    color: var(--text-color);
+}

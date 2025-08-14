@@ -1,0 +1,10 @@
+/* Кнопка переключателя */
+.theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

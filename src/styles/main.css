@@ -1,0 +1,45 @@
+/* Светлая тема */
+body {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --header-bg: #d0c8f5;
+    --footer-bg: #222222;
+    --input-theme: #f5f7fe;
+    --emoji-color: #ff4081;
+    --emoji-color-hover: #ff9800;
+    --border-color: #aaaaaa;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Тёмная тема */
+body.dark-theme {
+    --bg-color: #1d1c20;
+    --text-color: #ffffff;
+    --header-bg: #0c0616;
+    --footer-bg: #111111;
+    --input-theme: #282727;
+    --emoji-color: #ff80ab;
+    --emoji-color-hover: #ffd54f;
+    --border-color: #222222;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.not-found {
+    text-align: center;
+    padding: 2rem;
+}
+
+.not-found h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.not-found p {
+    font-size: 1rem;
+}
