@@ -15,3 +15,43 @@ body {
   font-family: Arial, sans-serif;
   transition: background 0.3s, color 0.3s;
 }
+
+.btn-theme {
+  color: var(--btn-text);
+  border: none;
+}
+
+.border-dashed {
+  border: 2px dashed var(--text-color);
+  padding: 20px;
+  border-radius: 5px;
+  transition: border-color 0.2s;
+}
+
+.border-dashed.dragover {
+  border-color: green;
+}
+
+.trash-icon {
+  color: red;
+  transition: "color 0.3s"
+}
+
+.json-icon{
+  color: #0d6efd;
+}
+
+.file-item {
+  transition: transform 0.3s, opacity 0.3s;
+}
+.file-item.removing {
+  opacity: 0;
+  transform: scale(0.5) rotate(-10deg);
+}
+.trash-icon {
+  color: red;
+  transition: transform 0.2s;
+}
+.trash-icon:hover {
+  transform: rotate(-10deg) scale(1.2);
+}
