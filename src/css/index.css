@@ -1,5 +1,5 @@
 :root[data-theme="light"] {
-  --bg-color: #ffffff;
+  --bg-color: #dff7ff;
   --text-color: #000000;
 }
 
@@ -54,4 +54,22 @@ body {
 }
 .trash-icon:hover {
   transform: rotate(-10deg) scale(1.2);
+}
+
+.output {
+    margin: 20px auto;
+    width: 90%;
+    max-width: 800px;
+}
+
+.json-output {
+  text-align: left;
+  vertical-align: top;
+  background-color: var(--bg-color);
+  padding: 15px;
+  border: solid 2px var(--border-color);
+  border-radius: 6px;
+  white-space: pre-wrap;
+  max-height: 300px; /* Ограничиваем высоту */
+  overflow-y: auto; /* Добавляем вертикальный скролл */
 }
